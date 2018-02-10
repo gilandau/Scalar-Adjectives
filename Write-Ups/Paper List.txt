@@ -1,0 +1,35 @@
+1) http://www.anthology.aclweb.org/D/D13/D13-1169.pdf
+
+
+
+########## Scalar Adjectives ##########
+https://arxiv.org/pdf/1504.08102.pdf
+https://arxiv.org/pdf/1711.07611.pdf
+http://www.aclweb.org/anthology/D15-1300
+http://www.aclweb.org/anthology/N15-1051 **
+http://www.aclweb.org/anthology/W16-1607 **
+
+########## Semantic Vectors ##########
+https://www.aclweb.org/anthology/N13-1090
+https://arxiv.org/pdf/1712.09405.pdf
+https://arxiv.org/pdf/1708.06266.pdf
+http://www.redalyc.org/html/5157/515751524014/
+http://www.aclweb.org/anthology/N15-1100
+https://arxiv.org/pdf/1509.01692.pdf
+http://www.aclweb.org/anthology/K17-1014
+http://www.aclweb.org/anthology/P15-2004
+
+############ On Data-Set ########
+http://www.aclweb.org/anthology/P10-1018
+https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/download/5172/5323
+
+
+############ NN Language Models ##########
+https://arxiv.org/pdf/1506.02338.pdf
+https://arxiv.org/pdf/1707.06961.pdf
+https://arxiv.org/pdf/1506.01066.pdf
+http://ieeexplore.ieee.org/abstract/document/6913361/?part=1
+
+######## REFERENCE ##########
+https://arxiv.org/pdf/1704.05295.pdf
+http://www.illc.uva.nl/Research/Publications/Reports/MoL-2017-16.text.pdf
