@@ -1,5 +1,15 @@
 1) http://www.anthology.aclweb.org/D/D13/D13-1169.pdf
+2) https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data
 
+(Landauer et al., 1998).
+(Mikolov et al., 2011)
+Mikolov (2013) – Continuous Semantic Vectors
+de Marneffe (2010) – Corpus
+(Bengio et al., 2003; Schwenk, 2007; Mikolov et al., 2010) – NNLMs to learn word vectors
+https://link.springer.com/chapter/10.1007/978-3-319-25789-1_25
+https://wiki.inf.ed.ac.uk/twiki/pub/CSTR/ListenSemester2_2009_10/sdarticle.pdf
+
+Jurafsky 15 - 16
 
 
 ########## Scalar Adjectives ##########
