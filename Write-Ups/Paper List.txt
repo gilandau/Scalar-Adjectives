@@ -1,8 +1,8 @@
-1) http://www.anthology.aclweb.org/D/D13/D13-1169.pdf
-2) https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data
-
 (Landauer et al., 1998).
 (Mikolov et al., 2011)
+https://arxiv.org/pdf/1506.02338.pdf
+http://www.lrec-conf.org/proceedings/lrec2016/pdf/1004_Paper.pdf
+https://www.cse.iitb.ac.in/~pb/papers/emnlp17-sentiment-intensity.pdf
 Mikolov (2013) – Continuous Semantic Vectors
 de Marneffe (2010) – Corpus
 (Bengio et al., 2003; Schwenk, 2007; Mikolov et al., 2010) – NNLMs to learn word vectors
@@ -10,6 +10,11 @@ https://link.springer.com/chapter/10.1007/978-3-319-25789-1_25
 https://wiki.inf.ed.ac.uk/twiki/pub/CSTR/ListenSemester2_2009_10/sdarticle.pdf
 
 Jurafsky 15 - 16
+
+A.	Bordes, J. Weston, R. Collobert, and Y. Bengio. Learning structured embeddings of knowledge bases. In Proceedings of the 25th Annual Conference on Artificial Intelligence (AAAI), 2011.
+R. Socher, D. Chen, C. D. Manning, and A. Y. Ng. Learning new facts from knowledge bases with neural tensor networks and semantic word vectors. In Advances in Neural Information Processing Systems (NIPS 26), 2013.
+A. Bordes, X. Glorot, J. Weston, and Y. Bengio. A semantic matching energy function for learning with multi-relational data. Machine Learning, 2013
+C. Kemp, J. B. Tenenbaum, T. L. Griffiths, T. Yamada, and N. Ueda. Learning systems of concepts with an infinite relational model. In Proceedings of the 21st Annual Conference on Artificial Intelligence (AAAI), 2006.
 
 
 ########## Scalar Adjectives ##########
