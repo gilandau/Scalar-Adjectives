@@ -1,0 +1,3163 @@
+problematic tough hard soft easygoing
+problematic tough hard soft delicate
+problematic tough hard soft gentle
+worst tough hard soft easygoing
+worst tough hard soft delicate
+worst tough hard soft gentle
+worst bad tough hard soft easygoing
+worst bad tough hard soft delicate
+worst bad tough hard soft gentle
+worse bad tough hard soft easygoing
+worse bad tough hard soft delicate
+worse bad tough hard soft gentle
+worse tough hard soft easygoing
+worse tough hard soft delicate
+worse tough hard soft gentle
+difficult hard soft easygoing
+difficult hard soft delicate
+difficult hard soft gentle
+laborious hard soft easygoing
+laborious hard soft delicate
+laborious hard soft gentle
+best good honest fair regretful bad worst
+best good honest fair regretful bad worse
+best good honest fair unfit bad worst
+best good honest fair unfit bad worse
+best good honest fair unsound bad worst
+best good honest fair unsound bad worse
+best good honest fair hard tough bad worst
+best good honest fair hard tough bad worse
+best good honest fair wild risky bad worst
+best good honest fair wild risky bad worse
+best good just better regretful bad worst
+best good just better regretful bad worse
+best good just better unfit bad worst
+best good just better unfit bad worse
+best good just better unsound bad worst
+best good just better unsound bad worse
+best good just better hard tough bad worst
+best good just better hard tough bad worse
+best good just better wild risky bad worst
+best good just better wild risky bad worse
+best good proficient better regretful bad worst
+best good proficient better regretful bad worse
+best good proficient better unfit bad worst
+best good proficient better unfit bad worse
+best good proficient better unsound bad worst
+best good proficient better unsound bad worse
+best good proficient better hard tough bad worst
+best good proficient better hard tough bad worse
+best good proficient better wild risky bad worst
+best good proficient better wild risky bad worse
+best good beneficial better regretful bad worst
+best good beneficial better regretful bad worse
+best good beneficial better unfit bad worst
+best good beneficial better unfit bad worse
+best good beneficial better unsound bad worst
+best good beneficial better unsound bad worse
+best good beneficial better hard tough bad worst
+best good beneficial better hard tough bad worse
+best good beneficial better wild risky bad worst
+best good beneficial better wild risky bad worse
+best good honorable better regretful bad worst
+best good honorable better regretful bad worse
+best good honorable better unfit bad worst
+best good honorable better unfit bad worse
+best good honorable better unsound bad worst
+best good honorable better unsound bad worse
+best good honorable better hard tough bad worst
+best good honorable better hard tough bad worse
+best good honorable better wild risky bad worst
+best good honorable better wild risky bad worse
+best good safe better regretful bad worst
+best good safe better regretful bad worse
+best good safe better unfit bad worst
+best good safe better unfit bad worse
+best good safe better unsound bad worst
+best good safe better unsound bad worse
+best good safe better hard tough bad worst
+best good safe better hard tough bad worse
+best good safe better wild risky bad worst
+best good safe better wild risky bad worse
+best good secure better regretful bad worst
+best good secure better regretful bad worse
+best good secure better unfit bad worst
+best good secure better unfit bad worse
+best good secure better unsound bad worst
+best good secure better unsound bad worse
+best good secure better hard tough bad worst
+best good secure better hard tough bad worse
+best good secure better wild risky bad worst
+best good secure better wild risky bad worse
+best good skilful better regretful bad worst
+best good skilful better regretful bad worse
+best good skilful better unfit bad worst
+best good skilful better unfit bad worse
+best good skilful better unsound bad worst
+best good skilful better unsound bad worse
+best good skilful better hard tough bad worst
+best good skilful better hard tough bad worse
+best good skilful better wild risky bad worst
+best good skilful better wild risky bad worse
+best good skillful better regretful bad worst
+best good skillful better regretful bad worse
+best good skillful better unfit bad worst
+best good skillful better unfit bad worse
+best good skillful better unsound bad worst
+best good skillful better unsound bad worse
+best good skillful better hard tough bad worst
+best good skillful better hard tough bad worse
+best good skillful better wild risky bad worst
+best good skillful better wild risky bad worse
+best good respectable better regretful bad worst
+best good respectable better regretful bad worse
+best good respectable better unfit bad worst
+best good respectable better unfit bad worse
+best good respectable better unsound bad worst
+best good respectable better unsound bad worse
+best good respectable better hard tough bad worst
+best good respectable better hard tough bad worse
+best good respectable better wild risky bad worst
+best good respectable better wild risky bad worse
+best good honorable respectable better regretful bad worst
+best good honorable respectable better regretful bad worse
+best good honorable respectable better unfit bad worst
+best good honorable respectable better unfit bad worse
+best good honorable respectable better unsound bad worst
+best good honorable respectable better unsound bad worse
+best good honorable respectable better hard tough bad worst
+best good honorable respectable better hard tough bad worse
+best good honorable respectable better wild risky bad worst
+best good honorable respectable better wild risky bad worse
+best good honest better regretful bad worst
+best good honest better regretful bad worse
+best good honest better unfit bad worst
+best good honest better unfit bad worse
+best good honest better unsound bad worst
+best good honest better unsound bad worse
+best good honest better hard tough bad worst
+best good honest better hard tough bad worse
+best good honest better wild risky bad worst
+best good honest better wild risky bad worse
+best good right better regretful bad worst
+best good right better regretful bad worse
+best good right better unfit bad worst
+best good right better unfit bad worse
+best good right better unsound bad worst
+best good right better unsound bad worse
+best good right better hard tough bad worst
+best good right better hard tough bad worse
+best good right better wild risky bad worst
+best good right better wild risky bad worse
+best good sound better regretful bad worst
+best good sound better regretful bad worse
+best good sound better unfit bad worst
+best good sound better unfit bad worse
+best good sound better unsound bad worst
+best good sound better unsound bad worse
+best good sound better hard tough bad worst
+best good sound better hard tough bad worse
+best good sound better wild risky bad worst
+best good sound better wild risky bad worse
+best good effective better regretful bad worst
+best good effective better regretful bad worse
+best good effective better unfit bad worst
+best good effective better unfit bad worse
+best good effective better unsound bad worst
+best good effective better unsound bad worse
+best good effective better hard tough bad worst
+best good effective better hard tough bad worse
+best good effective better wild risky bad worst
+best good effective better wild risky bad worse
+best good better regretful bad worst
+best good better regretful bad worse
+best good better unfit bad worst
+best good better unfit bad worse
+best good better unsound bad worst
+best good better unsound bad worse
+best good better hard tough bad worst
+best good better hard tough bad worse
+best good better wild risky bad worst
+best good better wild risky bad worse
+best good honorable ethical regretful bad worst
+best good honorable ethical regretful bad worse
+best good honorable ethical unfit bad worst
+best good honorable ethical unfit bad worse
+best good honorable ethical unsound bad worst
+best good honorable ethical unsound bad worse
+best good honorable ethical hard tough bad worst
+best good honorable ethical hard tough bad worse
+best good honorable ethical wild risky bad worst
+best good honorable ethical wild risky bad worse
+worse sorry regretful fair honest good best
+worse sorry regretful better just good best
+worse sorry regretful better proficient good best
+worse sorry regretful better beneficial good best
+worse sorry regretful better honorable good best
+worse sorry regretful better safe good best
+worse sorry regretful better secure good best
+worse sorry regretful better skilful good best
+worse sorry regretful better skillful good best
+worse sorry regretful better respectable good best
+worse sorry regretful better respectable honorable good best
+worse sorry regretful better honest good best
+worse sorry regretful better right good best
+worse sorry regretful better sound good best
+worse sorry regretful better effective good best
+worse sorry regretful better good best
+worse sorry regretful ethical honorable good best
+worse regretful fair honest good best
+worse regretful better just good best
+worse regretful better proficient good best
+worse regretful better beneficial good best
+worse regretful better honorable good best
+worse regretful better safe good best
+worse regretful better secure good best
+worse regretful better skilful good best
+worse regretful better skillful good best
+worse regretful better respectable good best
+worse regretful better respectable honorable good best
+worse regretful better honest good best
+worse regretful better right good best
+worse regretful better sound good best
+worse regretful better effective good best
+worse regretful better good best
+worse regretful ethical honorable good best
+worse sorry sad fair honest good best
+worse sorry sad better just good best
+worse sorry sad better proficient good best
+worse sorry sad better beneficial good best
+worse sorry sad better honorable good best
+worse sorry sad better safe good best
+worse sorry sad better secure good best
+worse sorry sad better skilful good best
+worse sorry sad better skillful good best
+worse sorry sad better respectable good best
+worse sorry sad better respectable honorable good best
+worse sorry sad better honest good best
+worse sorry sad better right good best
+worse sorry sad better sound good best
+worse sorry sad better effective good best
+worse sorry sad better good best
+worse sorry sad ethical honorable good best
+worse unfit fair honest good best
+worse unfit better just good best
+worse unfit better proficient good best
+worse unfit better beneficial good best
+worse unfit better honorable good best
+worse unfit better safe good best
+worse unfit better secure good best
+worse unfit better skilful good best
+worse unfit better skillful good best
+worse unfit better respectable good best
+worse unfit better respectable honorable good best
+worse unfit better honest good best
+worse unfit better right good best
+worse unfit better sound good best
+worse unfit better effective good best
+worse unfit better good best
+worse unfit ethical honorable good best
+worse unsound fair honest good best
+worse unsound better just good best
+worse unsound better proficient good best
+worse unsound better beneficial good best
+worse unsound better honorable good best
+worse unsound better safe good best
+worse unsound better secure good best
+worse unsound better skilful good best
+worse unsound better skillful good best
+worse unsound better respectable good best
+worse unsound better respectable honorable good best
+worse unsound better honest good best
+worse unsound better right good best
+worse unsound better sound good best
+worse unsound better effective good best
+worse unsound better good best
+worse unsound ethical honorable good best
+worse tough hard fair honest good best
+worse tough hard better just good best
+worse tough hard better proficient good best
+worse tough hard better beneficial good best
+worse tough hard better honorable good best
+worse tough hard better safe good best
+worse tough hard better secure good best
+worse tough hard better skilful good best
+worse tough hard better skillful good best
+worse tough hard better respectable good best
+worse tough hard better respectable honorable good best
+worse tough hard better honest good best
+worse tough hard better right good best
+worse tough hard better sound good best
+worse tough hard better effective good best
+worse tough hard better good best
+worse tough hard ethical honorable good best
+worse sorry dark fair honest good best
+worse sorry dark better just good best
+worse sorry dark better proficient good best
+worse sorry dark better beneficial good best
+worse sorry dark better honorable good best
+worse sorry dark better safe good best
+worse sorry dark better secure good best
+worse sorry dark better skilful good best
+worse sorry dark better skillful good best
+worse sorry dark better respectable good best
+worse sorry dark better respectable honorable good best
+worse sorry dark better honest good best
+worse sorry dark better right good best
+worse sorry dark better sound good best
+worse sorry dark better effective good best
+worse sorry dark better good best
+worse sorry dark ethical honorable good best
+worse risky wild fair honest good best
+worse risky wild better just good best
+worse risky wild better proficient good best
+worse risky wild better beneficial good best
+worse risky wild better honorable good best
+worse risky wild better safe good best
+worse risky wild better secure good best
+worse risky wild better skilful good best
+worse risky wild better skillful good best
+worse risky wild better respectable good best
+worse risky wild better respectable honorable good best
+worse risky wild better honest good best
+worse risky wild better right good best
+worse risky wild better sound good best
+worse risky wild better effective good best
+worse risky wild better good best
+worse risky wild ethical honorable good best
+worse spoiled fair honest good best
+worse spoiled better just good best
+worse spoiled better proficient good best
+worse spoiled better beneficial good best
+worse spoiled better honorable good best
+worse spoiled better safe good best
+worse spoiled better secure good best
+worse spoiled better skilful good best
+worse spoiled better skillful good best
+worse spoiled better respectable good best
+worse spoiled better respectable honorable good best
+worse spoiled better honest good best
+worse spoiled better right good best
+worse spoiled better sound good best
+worse spoiled better effective good best
+worse spoiled better good best
+worse spoiled ethical honorable good best
+worse defective fair honest good best
+worse defective better just good best
+worse defective better proficient good best
+worse defective better beneficial good best
+worse defective better honorable good best
+worse defective better safe good best
+worse defective better secure good best
+worse defective better skilful good best
+worse defective better skillful good best
+worse defective better respectable good best
+worse defective better respectable honorable good best
+worse defective better honest good best
+worse defective better right good best
+worse defective better sound good best
+worse defective better effective good best
+worse defective better good best
+worse defective ethical honorable good best
+worse sorry drab fair honest good best
+worse sorry drab better just good best
+worse sorry drab better proficient good best
+worse sorry drab better beneficial good best
+worse sorry drab better honorable good best
+worse sorry drab better safe good best
+worse sorry drab better secure good best
+worse sorry drab better skilful good best
+worse sorry drab better skillful good best
+worse sorry drab better respectable good best
+worse sorry drab better respectable honorable good best
+worse sorry drab better honest good best
+worse sorry drab better right good best
+worse sorry drab better sound good best
+worse sorry drab better effective good best
+worse sorry drab better good best
+worse sorry drab ethical honorable good best
+unclean impure fair clean
+capable able incapable incompetent
+brilliant bright smart slow dull dumb
+brilliant bright smart slow dull boring
+brilliant bright smart slow dull wearisome
+brilliant bright smart slow dull tedious
+brilliant bright smart slow dull dense
+brilliant bright smart dim dull dumb
+brilliant bright smart dim dull boring
+brilliant bright smart dim dull wearisome
+brilliant bright smart dim dull tedious
+brilliant bright smart dim dull dense
+brilliant bright smart ho-hum dull dumb
+brilliant bright smart ho-hum dull boring
+brilliant bright smart ho-hum dull wearisome
+brilliant bright smart ho-hum dull tedious
+brilliant bright smart ho-hum dull dense
+brilliant bright smart obtuse dull dumb
+brilliant bright smart obtuse dull boring
+brilliant bright smart obtuse dull wearisome
+brilliant bright smart obtuse dull tedious
+brilliant bright smart obtuse dull dense
+brilliant bright hopeful slow dull dumb
+brilliant bright hopeful slow dull boring
+brilliant bright hopeful slow dull wearisome
+brilliant bright hopeful slow dull tedious
+brilliant bright hopeful slow dull dense
+brilliant bright hopeful dim dull dumb
+brilliant bright hopeful dim dull boring
+brilliant bright hopeful dim dull wearisome
+brilliant bright hopeful dim dull tedious
+brilliant bright hopeful dim dull dense
+brilliant bright hopeful ho-hum dull dumb
+brilliant bright hopeful ho-hum dull boring
+brilliant bright hopeful ho-hum dull wearisome
+brilliant bright hopeful ho-hum dull tedious
+brilliant bright hopeful ho-hum dull dense
+brilliant bright hopeful obtuse dull dumb
+brilliant bright hopeful obtuse dull boring
+brilliant bright hopeful obtuse dull wearisome
+brilliant bright hopeful obtuse dull tedious
+brilliant bright hopeful obtuse dull dense
+brilliant bright promising slow dull dumb
+brilliant bright promising slow dull boring
+brilliant bright promising slow dull wearisome
+brilliant bright promising slow dull tedious
+brilliant bright promising slow dull dense
+brilliant bright promising dim dull dumb
+brilliant bright promising dim dull boring
+brilliant bright promising dim dull wearisome
+brilliant bright promising dim dull tedious
+brilliant bright promising dim dull dense
+brilliant bright promising ho-hum dull dumb
+brilliant bright promising ho-hum dull boring
+brilliant bright promising ho-hum dull wearisome
+brilliant bright promising ho-hum dull tedious
+brilliant bright promising ho-hum dull dense
+brilliant bright promising obtuse dull dumb
+brilliant bright promising obtuse dull boring
+brilliant bright promising obtuse dull wearisome
+brilliant bright promising obtuse dull tedious
+brilliant bright promising obtuse dull dense
+brilliant bright shiny slow dull dumb
+brilliant bright shiny slow dull boring
+brilliant bright shiny slow dull wearisome
+brilliant bright shiny slow dull tedious
+brilliant bright shiny slow dull dense
+brilliant bright shiny dim dull dumb
+brilliant bright shiny dim dull boring
+brilliant bright shiny dim dull wearisome
+brilliant bright shiny dim dull tedious
+brilliant bright shiny dim dull dense
+brilliant bright shiny ho-hum dull dumb
+brilliant bright shiny ho-hum dull boring
+brilliant bright shiny ho-hum dull wearisome
+brilliant bright shiny ho-hum dull tedious
+brilliant bright shiny ho-hum dull dense
+brilliant bright shiny obtuse dull dumb
+brilliant bright shiny obtuse dull boring
+brilliant bright shiny obtuse dull wearisome
+brilliant bright shiny obtuse dull tedious
+brilliant bright shiny obtuse dull dense
+best right better incorrect faulty
+best good right better incorrect faulty
+correct right better incorrect faulty
+smashed tight loose slack
+smashed tight loose lax
+smashed tight loose promiscuous
+smashed tight loose sluttish
+nasty tight loose slack
+nasty tight loose lax
+nasty tight loose promiscuous
+nasty tight loose sluttish
+easygoing soft cheap loud gaudy
+easygoing soft cheap loud tacky
+easygoing soft cheap loud trashy
+easygoing soft cheap loud brassy
+easygoing soft tawdry loud gaudy
+easygoing soft tawdry loud tacky
+easygoing soft tawdry loud trashy
+easygoing soft tawdry loud brassy
+delicate soft cheap loud gaudy
+delicate soft cheap loud tacky
+delicate soft cheap loud trashy
+delicate soft cheap loud brassy
+delicate soft tawdry loud gaudy
+delicate soft tawdry loud tacky
+delicate soft tawdry loud trashy
+delicate soft tawdry loud brassy
+gentle soft cheap loud gaudy
+gentle soft cheap loud tacky
+gentle soft cheap loud trashy
+gentle soft cheap loud brassy
+gentle soft tawdry loud gaudy
+gentle soft tawdry loud tacky
+gentle soft tawdry loud trashy
+gentle soft tawdry loud brassy
+virtuous pure impure unclean
+perfect pure impure unclean
+perfect consummate pure impure unclean
+perfect everlasting pure impure unclean
+perfect consummate everlasting pure impure unclean
+frigid cold hot spicy savory mouth-watering
+stale cold hot spicy savory mouth-watering
+undependable unreliable authentic reliable dependable best
+treacherous unreliable authentic reliable dependable best
+unwarranted baseless idle busy fussy
+unwarranted idle busy fussy
+dead idle busy fussy
+contrived artificial natural lifelike
+worst unsound better sound best
+worst unsound better sound intelligent
+worst unsound better sound profound
+worst unsound better sound good best
+worst unsound better sound healthy intelligent
+worst bad unsound better sound best
+worst bad unsound better sound intelligent
+worst bad unsound better sound profound
+worst bad unsound better sound healthy intelligent
+worse bad unsound better sound best
+worse bad unsound better sound intelligent
+worse bad unsound better sound profound
+worse bad unsound better sound healthy intelligent
+worse unsound better sound best
+worse unsound better sound intelligent
+worse unsound better sound profound
+worse unsound better sound healthy intelligent
+unstable unsound better sound best
+unstable unsound better sound intelligent
+unstable unsound better sound profound
+unstable unsound better sound good best
+unstable unsound better sound healthy intelligent
+mouth-watering savory spicy hot unsavory distasteful revolting disgusting
+mouth-watering savory spicy hot unsavory distasteful revolting loathsome
+mouth-watering savory spicy hot unsavory distasteful revolting foul
+mouth-watering savory spicy hot unsavory distasteful revolting wicked
+mouth-watering savory spicy hot unsavory distasteful loathsome
+mouth-watering savory spicy hot unsavory distasteful foul
+mouth-watering savory spicy hot unsavory distasteful disgusting
+mouth-watering savory spicy hot unsavory distasteful wicked
+brilliant bright smart unintelligent stupid
+wise smart unintelligent stupid
+abrasive harsh rough smooth suave
+abrasive harsh rough smooth smoother
+abrasive harsh rough smooth tranquil
+vicious savage fierce rough smooth suave
+vicious savage fierce rough smooth smoother
+vicious savage fierce rough smooth tranquil
+brutal savage fierce rough smooth suave
+brutal savage fierce rough smooth smoother
+brutal savage fierce rough smooth tranquil
+vicious cruel savage fierce rough smooth suave
+vicious cruel savage fierce rough smooth smoother
+vicious cruel savage fierce rough smooth tranquil
+brutal cruel savage fierce rough smooth suave
+brutal cruel savage fierce rough smooth smoother
+brutal cruel savage fierce rough smooth tranquil
+furious savage fierce rough smooth suave
+furious savage fierce rough smooth smoother
+furious savage fierce rough smooth tranquil
+furious fierce rough smooth suave
+furious fierce rough smooth smoother
+furious fierce rough smooth tranquil
+egregious gross crude rough smooth suave
+egregious gross crude rough smooth smoother
+egregious gross crude rough smooth tranquil
+rude crude rough smooth suave
+rude crude rough smooth smoother
+rude crude rough smooth tranquil
+vulgar crude rough smooth suave
+vulgar crude rough smooth smoother
+vulgar crude rough smooth tranquil
+grating rough smooth suave
+grating rough smooth smoother
+grating rough smooth tranquil
+efficient effective better unable ineffective
+best good effective better unable ineffective
+best effective better unable ineffective
+awkward clumsy gawky graceful elegant
+awkward clumsy gawky graceful refined
+awkward uneasy graceful elegant
+awkward uneasy graceful refined
+awkward cumbersome graceful elegant
+awkward cumbersome graceful refined
+awkward inept graceful elegant
+awkward inept graceful refined
+awkward sticky graceful elegant
+awkward sticky graceful refined
+clean fair cloudy muddy dirty lousy filthy
+clean fair cloudy muddy dirty filthy
+clean fair cloudy muddy dirty foul
+clean fair murky muddy dirty lousy filthy
+clean fair murky muddy dirty filthy
+clean fair murky muddy dirty foul
+dumb dull slow racy lively
+dumb dull slow merry lively
+dumb dull slow bouncy resilient lively
+dumb dull slow bouncy lively
+dumb dull slow snappy lively
+dumb dull slow springy resilient lively
+dumb dull slow springy lively
+dumb dull slow vital lively
+boring dull slow racy lively
+boring dull slow merry lively
+boring dull slow bouncy resilient lively
+boring dull slow bouncy lively
+boring dull slow snappy lively
+boring dull slow springy resilient lively
+boring dull slow springy lively
+boring dull slow vital lively
+wearisome dull slow racy lively
+wearisome dull slow merry lively
+wearisome dull slow bouncy resilient lively
+wearisome dull slow bouncy lively
+wearisome dull slow snappy lively
+wearisome dull slow springy resilient lively
+wearisome dull slow springy lively
+wearisome dull slow vital lively
+tedious dull slow racy lively
+tedious dull slow merry lively
+tedious dull slow bouncy resilient lively
+tedious dull slow bouncy lively
+tedious dull slow snappy lively
+tedious dull slow springy resilient lively
+tedious dull slow springy lively
+tedious dull slow vital lively
+dense dull slow racy lively
+dense dull slow merry lively
+dense dull slow bouncy resilient lively
+dense dull slow bouncy lively
+dense dull slow snappy lively
+dense dull slow springy resilient lively
+dense dull slow springy lively
+dense dull slow vital lively
+dumb dull dim racy lively
+dumb dull dim merry lively
+dumb dull dim bouncy resilient lively
+dumb dull dim bouncy lively
+dumb dull dim snappy lively
+dumb dull dim springy resilient lively
+dumb dull dim springy lively
+dumb dull dim vital lively
+boring dull dim racy lively
+boring dull dim merry lively
+boring dull dim bouncy resilient lively
+boring dull dim bouncy lively
+boring dull dim snappy lively
+boring dull dim springy resilient lively
+boring dull dim springy lively
+boring dull dim vital lively
+wearisome dull dim racy lively
+wearisome dull dim merry lively
+wearisome dull dim bouncy resilient lively
+wearisome dull dim bouncy lively
+wearisome dull dim snappy lively
+wearisome dull dim springy resilient lively
+wearisome dull dim springy lively
+wearisome dull dim vital lively
+tedious dull dim racy lively
+tedious dull dim merry lively
+tedious dull dim bouncy resilient lively
+tedious dull dim bouncy lively
+tedious dull dim snappy lively
+tedious dull dim springy resilient lively
+tedious dull dim springy lively
+tedious dull dim vital lively
+dense dull dim racy lively
+dense dull dim merry lively
+dense dull dim bouncy resilient lively
+dense dull dim bouncy lively
+dense dull dim snappy lively
+dense dull dim springy resilient lively
+dense dull dim springy lively
+dense dull dim vital lively
+dumb dull ho-hum racy lively
+dumb dull ho-hum merry lively
+dumb dull ho-hum bouncy resilient lively
+dumb dull ho-hum bouncy lively
+dumb dull ho-hum snappy lively
+dumb dull ho-hum springy resilient lively
+dumb dull ho-hum springy lively
+dumb dull ho-hum vital lively
+boring dull ho-hum racy lively
+boring dull ho-hum merry lively
+boring dull ho-hum bouncy resilient lively
+boring dull ho-hum bouncy lively
+boring dull ho-hum snappy lively
+boring dull ho-hum springy resilient lively
+boring dull ho-hum springy lively
+boring dull ho-hum vital lively
+wearisome dull ho-hum racy lively
+wearisome dull ho-hum merry lively
+wearisome dull ho-hum bouncy resilient lively
+wearisome dull ho-hum bouncy lively
+wearisome dull ho-hum snappy lively
+wearisome dull ho-hum springy resilient lively
+wearisome dull ho-hum springy lively
+wearisome dull ho-hum vital lively
+tedious dull ho-hum racy lively
+tedious dull ho-hum merry lively
+tedious dull ho-hum bouncy resilient lively
+tedious dull ho-hum bouncy lively
+tedious dull ho-hum snappy lively
+tedious dull ho-hum springy resilient lively
+tedious dull ho-hum springy lively
+tedious dull ho-hum vital lively
+dense dull ho-hum racy lively
+dense dull ho-hum merry lively
+dense dull ho-hum bouncy resilient lively
+dense dull ho-hum bouncy lively
+dense dull ho-hum snappy lively
+dense dull ho-hum springy resilient lively
+dense dull ho-hum springy lively
+dense dull ho-hum vital lively
+dumb dull obtuse racy lively
+dumb dull obtuse merry lively
+dumb dull obtuse bouncy resilient lively
+dumb dull obtuse bouncy lively
+dumb dull obtuse snappy lively
+dumb dull obtuse springy resilient lively
+dumb dull obtuse springy lively
+dumb dull obtuse vital lively
+boring dull obtuse racy lively
+boring dull obtuse merry lively
+boring dull obtuse bouncy resilient lively
+boring dull obtuse bouncy lively
+boring dull obtuse snappy lively
+boring dull obtuse springy resilient lively
+boring dull obtuse springy lively
+boring dull obtuse vital lively
+wearisome dull obtuse racy lively
+wearisome dull obtuse merry lively
+wearisome dull obtuse bouncy resilient lively
+wearisome dull obtuse bouncy lively
+wearisome dull obtuse snappy lively
+wearisome dull obtuse springy resilient lively
+wearisome dull obtuse springy lively
+wearisome dull obtuse vital lively
+tedious dull obtuse racy lively
+tedious dull obtuse merry lively
+tedious dull obtuse bouncy resilient lively
+tedious dull obtuse bouncy lively
+tedious dull obtuse snappy lively
+tedious dull obtuse springy resilient lively
+tedious dull obtuse springy lively
+tedious dull obtuse vital lively
+dense dull obtuse racy lively
+dense dull obtuse merry lively
+dense dull obtuse bouncy resilient lively
+dense dull obtuse bouncy lively
+dense dull obtuse snappy lively
+dense dull obtuse springy resilient lively
+dense dull obtuse springy lively
+dense dull obtuse vital lively
+appealing sympathetic charitable unappealing unsympathetic
+appealing sympathetic charitable unappealing unlikable unsympathetic
+benevolent sympathetic charitable unappealing unsympathetic
+benevolent sympathetic charitable unappealing unlikable unsympathetic
+happy glad sad sorry deplorable
+happy glad sad sorry worse
+happy glad sad sorry worst
+happy glad sad sorry dismal
+happy glad sad sorry dreary dismal
+happy glad sad sorry pitiful miserable
+happy glad sad sorry pitiful deplorable
+happy glad sad sorry pitiful wretched
+happy glad sad distressing deplorable
+happy glad sad distressing pitiful miserable
+happy glad sad distressing pitiful deplorable
+happy glad sad distressing pitiful wretched
+happy glad sad deplorable
+happy glad sad pitiful miserable
+happy glad sad pitiful deplorable
+happy glad sad pitiful wretched
+finest fine ok uncouth coarse vulgar
+finest fine okay uncouth coarse vulgar
+sickening vile unworthy suitable worthy
+ugly vile unworthy suitable worthy
+loathsome vile unworthy suitable worthy
+wretched vile unworthy suitable worthy
+despicable vile unworthy suitable worthy
+ugly unworthy suitable worthy
+sickening vile slimy unworthy suitable worthy
+ugly vile slimy unworthy suitable worthy
+loathsome vile slimy unworthy suitable worthy
+wretched vile slimy unworthy suitable worthy
+despicable vile slimy unworthy suitable worthy
+ugly slimy unworthy suitable worthy
+despicable worthless slimy unworthy suitable worthy
+ugly worthless slimy unworthy suitable worthy
+wretched worthless slimy unworthy suitable worthy
+wretched slimy unworthy suitable worthy
+despicable slimy unworthy suitable worthy
+despicable worthless unworthy suitable worthy
+ugly worthless unworthy suitable worthy
+wretched worthless unworthy suitable worthy
+wretched unworthy suitable worthy
+despicable unworthy suitable worthy
+loathsome nauseous offensive hot spicy savory mouth-watering
+sickening nauseous offensive hot spicy savory mouth-watering
+sickening offensive hot spicy savory mouth-watering
+loathsome nauseous nauseating offensive hot spicy savory mouth-watering
+sickening nauseous nauseating offensive hot spicy savory mouth-watering
+loathsome nauseating offensive hot spicy savory mouth-watering
+sickening nauseating offensive hot spicy savory mouth-watering
+sickening vile nauseating offensive hot spicy savory mouth-watering
+ugly vile nauseating offensive hot spicy savory mouth-watering
+loathsome vile nauseating offensive hot spicy savory mouth-watering
+wretched vile nauseating offensive hot spicy savory mouth-watering
+despicable vile nauseating offensive hot spicy savory mouth-watering
+loathsome offensive hot spicy savory mouth-watering
+sickening vile offensive hot spicy savory mouth-watering
+ugly vile offensive hot spicy savory mouth-watering
+loathsome vile offensive hot spicy savory mouth-watering
+wretched vile offensive hot spicy savory mouth-watering
+despicable vile offensive hot spicy savory mouth-watering
+appealing likeable unappealing unsympathetic
+appealing likeable unappealing unlikable unsympathetic
+finest ok uncouth coarse vulgar
+finest okay uncouth coarse vulgar
+indecipherable unclear readable clear clear-cut
+indecipherable unclear readable clear well-defined
+friendly favorable prosperous easy unfriendly hostile
+friendly favorable lucky golden unfriendly hostile
+friendly favorable golden unfriendly hostile
+friendly favorable prosperous golden unfriendly hostile
+positive confident negative damaging
+positive irrefutable negative damaging
+gentle easy uneasy awkward
+gentle easy uneasy anxious
+gentle easy uneasy queasy nauseous loathsome
+gentle easy uneasy queasy nauseous sickening
+gentle easy uneasy queasy sickening
+gentle easy uneasy queasy nauseating nauseous loathsome
+gentle easy uneasy queasy nauseating nauseous sickening
+gentle easy uneasy queasy nauseating loathsome
+gentle easy uneasy queasy nauseating sickening
+gentle easy uneasy queasy nauseating vile sickening
+gentle easy uneasy queasy nauseating vile ugly
+gentle easy uneasy queasy nauseating vile loathsome
+gentle easy uneasy queasy nauseating vile wretched
+gentle easy uneasy queasy nauseating vile despicable
+gentle easy uneasy queasy loathsome
+gentle easy uneasy queasy sick grisly ghastly
+gentle easy uneasy queasy sick nauseous loathsome
+gentle easy uneasy queasy sick nauseous sickening
+gentle easy uneasy queasy sick ghastly
+gentle easy uneasy queasy vile sickening
+gentle easy uneasy queasy vile ugly
+gentle easy uneasy queasy vile loathsome
+gentle easy uneasy queasy vile wretched
+gentle easy uneasy queasy vile despicable
+leisurely easy uneasy awkward
+leisurely easy uneasy anxious
+leisurely easy uneasy queasy nauseous loathsome
+leisurely easy uneasy queasy nauseous sickening
+leisurely easy uneasy queasy sickening
+leisurely easy uneasy queasy nauseating nauseous loathsome
+leisurely easy uneasy queasy nauseating nauseous sickening
+leisurely easy uneasy queasy nauseating loathsome
+leisurely easy uneasy queasy nauseating sickening
+leisurely easy uneasy queasy nauseating vile sickening
+leisurely easy uneasy queasy nauseating vile ugly
+leisurely easy uneasy queasy nauseating vile loathsome
+leisurely easy uneasy queasy nauseating vile wretched
+leisurely easy uneasy queasy nauseating vile despicable
+leisurely easy uneasy queasy loathsome
+leisurely easy uneasy queasy sick grisly ghastly
+leisurely easy uneasy queasy sick nauseous loathsome
+leisurely easy uneasy queasy sick nauseous sickening
+leisurely easy uneasy queasy sick ghastly
+leisurely easy uneasy queasy vile sickening
+leisurely easy uneasy queasy vile ugly
+leisurely easy uneasy queasy vile loathsome
+leisurely easy uneasy queasy vile wretched
+leisurely easy uneasy queasy vile despicable
+thriving prosperous easy uneasy awkward
+thriving prosperous easy uneasy anxious
+thriving prosperous easy uneasy queasy nauseous loathsome
+thriving prosperous easy uneasy queasy nauseous sickening
+thriving prosperous easy uneasy queasy sickening
+thriving prosperous easy uneasy queasy nauseating nauseous loathsome
+thriving prosperous easy uneasy queasy nauseating nauseous sickening
+thriving prosperous easy uneasy queasy nauseating loathsome
+thriving prosperous easy uneasy queasy nauseating sickening
+thriving prosperous easy uneasy queasy nauseating vile sickening
+thriving prosperous easy uneasy queasy nauseating vile ugly
+thriving prosperous easy uneasy queasy nauseating vile loathsome
+thriving prosperous easy uneasy queasy nauseating vile wretched
+thriving prosperous easy uneasy queasy nauseating vile despicable
+thriving prosperous easy uneasy queasy loathsome
+thriving prosperous easy uneasy queasy sick grisly ghastly
+thriving prosperous easy uneasy queasy sick nauseous loathsome
+thriving prosperous easy uneasy queasy sick nauseous sickening
+thriving prosperous easy uneasy queasy sick ghastly
+thriving prosperous easy uneasy queasy vile sickening
+thriving prosperous easy uneasy queasy vile ugly
+thriving prosperous easy uneasy queasy vile loathsome
+thriving prosperous easy uneasy queasy vile wretched
+thriving prosperous easy uneasy queasy vile despicable
+friendly favorable prosperous easy uneasy awkward
+friendly favorable prosperous easy uneasy anxious
+friendly favorable prosperous easy uneasy queasy nauseous loathsome
+friendly favorable prosperous easy uneasy queasy nauseous sickening
+friendly favorable prosperous easy uneasy queasy sickening
+friendly favorable prosperous easy uneasy queasy nauseating nauseous loathsome
+friendly favorable prosperous easy uneasy queasy nauseating nauseous sickening
+friendly favorable prosperous easy uneasy queasy nauseating loathsome
+friendly favorable prosperous easy uneasy queasy nauseating sickening
+friendly favorable prosperous easy uneasy queasy nauseating vile sickening
+friendly favorable prosperous easy uneasy queasy nauseating vile ugly
+friendly favorable prosperous easy uneasy queasy nauseating vile loathsome
+friendly favorable prosperous easy uneasy queasy nauseating vile wretched
+friendly favorable prosperous easy uneasy queasy nauseating vile despicable
+friendly favorable prosperous easy uneasy queasy loathsome
+friendly favorable prosperous easy uneasy queasy sick grisly ghastly
+friendly favorable prosperous easy uneasy queasy sick nauseous loathsome
+friendly favorable prosperous easy uneasy queasy sick nauseous sickening
+friendly favorable prosperous easy uneasy queasy sick ghastly
+friendly favorable prosperous easy uneasy queasy vile sickening
+friendly favorable prosperous easy uneasy queasy vile ugly
+friendly favorable prosperous easy uneasy queasy vile loathsome
+friendly favorable prosperous easy uneasy queasy vile wretched
+friendly favorable prosperous easy uneasy queasy vile despicable
+easygoing easy uneasy awkward
+easygoing easy uneasy anxious
+easygoing easy uneasy queasy nauseous loathsome
+easygoing easy uneasy queasy nauseous sickening
+easygoing easy uneasy queasy sickening
+easygoing easy uneasy queasy nauseating nauseous loathsome
+easygoing easy uneasy queasy nauseating nauseous sickening
+easygoing easy uneasy queasy nauseating loathsome
+easygoing easy uneasy queasy nauseating sickening
+easygoing easy uneasy queasy nauseating vile sickening
+easygoing easy uneasy queasy nauseating vile ugly
+easygoing easy uneasy queasy nauseating vile loathsome
+easygoing easy uneasy queasy nauseating vile wretched
+easygoing easy uneasy queasy nauseating vile despicable
+easygoing easy uneasy queasy loathsome
+easygoing easy uneasy queasy sick grisly ghastly
+easygoing easy uneasy queasy sick nauseous loathsome
+easygoing easy uneasy queasy sick nauseous sickening
+easygoing easy uneasy queasy sick ghastly
+easygoing easy uneasy queasy vile sickening
+easygoing easy uneasy queasy vile ugly
+easygoing easy uneasy queasy vile loathsome
+easygoing easy uneasy queasy vile wretched
+easygoing easy uneasy queasy vile despicable
+comfortable easy uneasy awkward
+comfortable easy uneasy anxious
+comfortable easy uneasy queasy nauseous loathsome
+comfortable easy uneasy queasy nauseous sickening
+comfortable easy uneasy queasy sickening
+comfortable easy uneasy queasy nauseating nauseous loathsome
+comfortable easy uneasy queasy nauseating nauseous sickening
+comfortable easy uneasy queasy nauseating loathsome
+comfortable easy uneasy queasy nauseating sickening
+comfortable easy uneasy queasy nauseating vile sickening
+comfortable easy uneasy queasy nauseating vile ugly
+comfortable easy uneasy queasy nauseating vile loathsome
+comfortable easy uneasy queasy nauseating vile wretched
+comfortable easy uneasy queasy nauseating vile despicable
+comfortable easy uneasy queasy loathsome
+comfortable easy uneasy queasy sick grisly ghastly
+comfortable easy uneasy queasy sick nauseous loathsome
+comfortable easy uneasy queasy sick nauseous sickening
+comfortable easy uneasy queasy sick ghastly
+comfortable easy uneasy queasy vile sickening
+comfortable easy uneasy queasy vile ugly
+comfortable easy uneasy queasy vile loathsome
+comfortable easy uneasy queasy vile wretched
+comfortable easy uneasy queasy vile despicable
+stupid unintelligent better respectable healthy intelligent
+stupid unintelligent better sound intelligent
+stupid unintelligent better sound healthy intelligent
+stupid unintelligent tidy healthy intelligent
+stupid unintelligent sizable healthy intelligent
+stupid unintelligent well-informed intelligent
+best right better improper wrong faulty
+best right better untimely wrong faulty
+best good right better improper wrong faulty
+best good right better untimely wrong faulty
+correct right better improper wrong faulty
+correct right better untimely wrong faulty
+majestic gallant proud modest humble
+majestic proud modest humble
+miserable poor hapless racy rich
+miserable poor hapless copious rich
+miserable poor hapless plentiful rich
+miserable poor hapless robust rich
+miserable poor hapless productive rich
+miserable poor hapless fertile rich
+miserable pathetic pitiable poor hapless racy rich
+miserable pathetic pitiable poor hapless copious rich
+miserable pathetic pitiable poor hapless plentiful rich
+miserable pathetic pitiable poor hapless robust rich
+miserable pathetic pitiable poor hapless productive rich
+miserable pathetic pitiable poor hapless fertile rich
+wretched pathetic pitiable poor hapless racy rich
+wretched pathetic pitiable poor hapless copious rich
+wretched pathetic pitiable poor hapless plentiful rich
+wretched pathetic pitiable poor hapless robust rich
+wretched pathetic pitiable poor hapless productive rich
+wretched pathetic pitiable poor hapless fertile rich
+miserable pitiable poor hapless racy rich
+miserable pitiable poor hapless copious rich
+miserable pitiable poor hapless plentiful rich
+miserable pitiable poor hapless robust rich
+miserable pitiable poor hapless productive rich
+miserable pitiable poor hapless fertile rich
+wretched pitiable poor hapless racy rich
+wretched pitiable poor hapless copious rich
+wretched pitiable poor hapless plentiful rich
+wretched pitiable poor hapless robust rich
+wretched pitiable poor hapless productive rich
+wretched pitiable poor hapless fertile rich
+miserable pitiful pitiable poor hapless racy rich
+miserable pitiful pitiable poor hapless copious rich
+miserable pitiful pitiable poor hapless plentiful rich
+miserable pitiful pitiable poor hapless robust rich
+miserable pitiful pitiable poor hapless productive rich
+miserable pitiful pitiable poor hapless fertile rich
+deplorable pitiful pitiable poor hapless racy rich
+deplorable pitiful pitiable poor hapless copious rich
+deplorable pitiful pitiable poor hapless plentiful rich
+deplorable pitiful pitiable poor hapless robust rich
+deplorable pitiful pitiable poor hapless productive rich
+deplorable pitiful pitiable poor hapless fertile rich
+wretched pitiful pitiable poor hapless racy rich
+wretched pitiful pitiable poor hapless copious rich
+wretched pitiful pitiable poor hapless plentiful rich
+wretched pitiful pitiable poor hapless robust rich
+wretched pitiful pitiable poor hapless productive rich
+wretched pitiful pitiable poor hapless fertile rich
+wretched poor hapless racy rich
+wretched poor hapless copious rich
+wretched poor hapless plentiful rich
+wretched poor hapless robust rich
+wretched poor hapless productive rich
+wretched poor hapless fertile rich
+miserable pathetic poor hapless racy rich
+miserable pathetic poor hapless copious rich
+miserable pathetic poor hapless plentiful rich
+miserable pathetic poor hapless robust rich
+miserable pathetic poor hapless productive rich
+miserable pathetic poor hapless fertile rich
+wretched pathetic poor hapless racy rich
+wretched pathetic poor hapless copious rich
+wretched pathetic poor hapless plentiful rich
+wretched pathetic poor hapless robust rich
+wretched pathetic poor hapless productive rich
+wretched pathetic poor hapless fertile rich
+miserable pitiful poor hapless racy rich
+miserable pitiful poor hapless copious rich
+miserable pitiful poor hapless plentiful rich
+miserable pitiful poor hapless robust rich
+miserable pitiful poor hapless productive rich
+miserable pitiful poor hapless fertile rich
+deplorable pitiful poor hapless racy rich
+deplorable pitiful poor hapless copious rich
+deplorable pitiful poor hapless plentiful rich
+deplorable pitiful poor hapless robust rich
+deplorable pitiful poor hapless productive rich
+deplorable pitiful poor hapless fertile rich
+wretched pitiful poor hapless racy rich
+wretched pitiful poor hapless copious rich
+wretched pitiful poor hapless plentiful rich
+wretched pitiful poor hapless robust rich
+wretched pitiful poor hapless productive rich
+wretched pitiful poor hapless fertile rich
+miserable poor short racy rich
+miserable poor short copious rich
+miserable poor short plentiful rich
+miserable poor short robust rich
+miserable poor short productive rich
+miserable poor short fertile rich
+miserable pathetic pitiable poor short racy rich
+miserable pathetic pitiable poor short copious rich
+miserable pathetic pitiable poor short plentiful rich
+miserable pathetic pitiable poor short robust rich
+miserable pathetic pitiable poor short productive rich
+miserable pathetic pitiable poor short fertile rich
+wretched pathetic pitiable poor short racy rich
+wretched pathetic pitiable poor short copious rich
+wretched pathetic pitiable poor short plentiful rich
+wretched pathetic pitiable poor short robust rich
+wretched pathetic pitiable poor short productive rich
+wretched pathetic pitiable poor short fertile rich
+miserable pitiable poor short racy rich
+miserable pitiable poor short copious rich
+miserable pitiable poor short plentiful rich
+miserable pitiable poor short robust rich
+miserable pitiable poor short productive rich
+miserable pitiable poor short fertile rich
+wretched pitiable poor short racy rich
+wretched pitiable poor short copious rich
+wretched pitiable poor short plentiful rich
+wretched pitiable poor short robust rich
+wretched pitiable poor short productive rich
+wretched pitiable poor short fertile rich
+miserable pitiful pitiable poor short racy rich
+miserable pitiful pitiable poor short copious rich
+miserable pitiful pitiable poor short plentiful rich
+miserable pitiful pitiable poor short robust rich
+miserable pitiful pitiable poor short productive rich
+miserable pitiful pitiable poor short fertile rich
+deplorable pitiful pitiable poor short racy rich
+deplorable pitiful pitiable poor short copious rich
+deplorable pitiful pitiable poor short plentiful rich
+deplorable pitiful pitiable poor short robust rich
+deplorable pitiful pitiable poor short productive rich
+deplorable pitiful pitiable poor short fertile rich
+wretched pitiful pitiable poor short racy rich
+wretched pitiful pitiable poor short copious rich
+wretched pitiful pitiable poor short plentiful rich
+wretched pitiful pitiable poor short robust rich
+wretched pitiful pitiable poor short productive rich
+wretched pitiful pitiable poor short fertile rich
+wretched poor short racy rich
+wretched poor short copious rich
+wretched poor short plentiful rich
+wretched poor short robust rich
+wretched poor short productive rich
+wretched poor short fertile rich
+miserable pathetic poor short racy rich
+miserable pathetic poor short copious rich
+miserable pathetic poor short plentiful rich
+miserable pathetic poor short robust rich
+miserable pathetic poor short productive rich
+miserable pathetic poor short fertile rich
+wretched pathetic poor short racy rich
+wretched pathetic poor short copious rich
+wretched pathetic poor short plentiful rich
+wretched pathetic poor short robust rich
+wretched pathetic poor short productive rich
+wretched pathetic poor short fertile rich
+miserable pitiful poor short racy rich
+miserable pitiful poor short copious rich
+miserable pitiful poor short plentiful rich
+miserable pitiful poor short robust rich
+miserable pitiful poor short productive rich
+miserable pitiful poor short fertile rich
+deplorable pitiful poor short racy rich
+deplorable pitiful poor short copious rich
+deplorable pitiful poor short plentiful rich
+deplorable pitiful poor short robust rich
+deplorable pitiful poor short productive rich
+deplorable pitiful poor short fertile rich
+wretched pitiful poor short racy rich
+wretched pitiful poor short copious rich
+wretched pitiful poor short plentiful rich
+wretched pitiful poor short robust rich
+wretched pitiful poor short productive rich
+wretched pitiful poor short fertile rich
+rude uncivil civil polite
+rancid sour dark novel fresh sweet angelic
+rancid sour dark cherubic sweet angelic
+rancid sour moody novel fresh sweet angelic
+rancid sour moody cherubic sweet angelic
+grievous dangerous unsafe better secure best
+grievous dangerous unsafe better secure dependable best
+grievous dangerous unsafe better secure strong unassailable
+grievous dangerous unsafe better secure unassailable
+grievous dangerous unsafe better secure good best
+stale cold novel fresh refreshing
+stale cold novel fresh sweet angelic
+stale cold novel fresh wise
+perfect complete imperfect weak rickety
+perfect complete imperfect weak decrepit
+perfect consummate complete imperfect weak rickety
+perfect consummate complete imperfect weak decrepit
+perfect everlasting complete imperfect weak rickety
+perfect everlasting complete imperfect weak decrepit
+perfect consummate everlasting complete imperfect weak rickety
+perfect consummate everlasting complete imperfect weak decrepit
+perfect pure imperfect weak rickety
+perfect pure imperfect weak decrepit
+perfect consummate pure imperfect weak rickety
+perfect consummate pure imperfect weak decrepit
+perfect everlasting pure imperfect weak rickety
+perfect everlasting pure imperfect weak decrepit
+perfect consummate everlasting pure imperfect weak rickety
+perfect consummate everlasting pure imperfect weak decrepit
+perfect consummate masterly imperfect weak rickety
+perfect consummate masterly imperfect weak decrepit
+gentle easy hard difficult
+leisurely easy hard difficult
+thriving prosperous easy hard difficult
+friendly favorable prosperous easy hard difficult
+easygoing easy hard difficult
+comfortable easy hard difficult
+unassailable strong warm imperfect weak rickety
+unassailable strong warm imperfect weak decrepit
+unassailable strong warm faint weak rickety
+unassailable strong warm faint weak decrepit
+unassailable strong potent imperfect weak rickety
+unassailable strong potent imperfect weak decrepit
+unassailable strong potent faint weak rickety
+unassailable strong potent faint weak decrepit
+unassailable strong impregnable imperfect weak rickety
+unassailable strong impregnable imperfect weak decrepit
+unassailable strong impregnable faint weak rickety
+unassailable strong impregnable faint weak decrepit
+unassailable strong solid imperfect weak rickety
+unassailable strong solid imperfect weak decrepit
+unassailable strong solid faint weak rickety
+unassailable strong solid faint weak decrepit
+unassailable strong substantial imperfect weak rickety
+unassailable strong substantial imperfect weak decrepit
+unassailable strong substantial faint weak rickety
+unassailable strong substantial faint weak decrepit
+unassailable strong firm imperfect weak rickety
+unassailable strong firm imperfect weak decrepit
+unassailable strong firm faint weak rickety
+unassailable strong firm faint weak decrepit
+unassailable strong secure better imperfect weak rickety
+unassailable strong secure better imperfect weak decrepit
+unassailable strong secure better faint weak rickety
+unassailable strong secure better faint weak decrepit
+best dependable reliable authentic regretful bad worst
+best dependable reliable authentic regretful bad worse
+best dependable reliable authentic unfit bad worst
+best dependable reliable authentic unfit bad worse
+best dependable reliable authentic unsound bad worst
+best dependable reliable authentic unsound bad worse
+best dependable reliable authentic hard tough bad worst
+best dependable reliable authentic hard tough bad worse
+best dependable reliable authentic wild risky bad worst
+best dependable reliable authentic wild risky bad worse
+best dear earnest solemn regretful bad worst
+best dear earnest solemn regretful bad worse
+best dear earnest solemn unfit bad worst
+best dear earnest solemn unfit bad worse
+best dear earnest solemn unsound bad worst
+best dear earnest solemn unsound bad worse
+best dear earnest solemn hard tough bad worst
+best dear earnest solemn hard tough bad worse
+best dear earnest solemn wild risky bad worst
+best dear earnest solemn wild risky bad worse
+best honest fair regretful bad worst
+best honest fair regretful bad worse
+best honest fair unfit bad worst
+best honest fair unfit bad worse
+best honest fair unsound bad worst
+best honest fair unsound bad worse
+best honest fair hard tough bad worst
+best honest fair hard tough bad worse
+best honest fair wild risky bad worst
+best honest fair wild risky bad worse
+best dependable honest fair regretful bad worst
+best dependable honest fair regretful bad worse
+best dependable honest fair unfit bad worst
+best dependable honest fair unfit bad worse
+best dependable honest fair unsound bad worst
+best dependable honest fair unsound bad worse
+best dependable honest fair hard tough bad worst
+best dependable honest fair hard tough bad worse
+best dependable honest fair wild risky bad worst
+best dependable honest fair wild risky bad worse
+best dear better regretful bad worst
+best dear better regretful bad worse
+best dear better unfit bad worst
+best dear better unfit bad worse
+best dear better unsound bad worst
+best dear better unsound bad worse
+best dear better hard tough bad worst
+best dear better hard tough bad worse
+best dear better wild risky bad worst
+best dear better wild risky bad worse
+best just better regretful bad worst
+best just better regretful bad worse
+best just better unfit bad worst
+best just better unfit bad worse
+best just better unsound bad worst
+best just better unsound bad worse
+best just better hard tough bad worst
+best just better hard tough bad worse
+best just better wild risky bad worst
+best just better wild risky bad worse
+best proficient better regretful bad worst
+best proficient better regretful bad worse
+best proficient better unfit bad worst
+best proficient better unfit bad worse
+best proficient better unsound bad worst
+best proficient better unsound bad worse
+best proficient better hard tough bad worst
+best proficient better hard tough bad worse
+best proficient better wild risky bad worst
+best proficient better wild risky bad worse
+best adept proficient better regretful bad worst
+best adept proficient better regretful bad worse
+best adept proficient better unfit bad worst
+best adept proficient better unfit bad worse
+best adept proficient better unsound bad worst
+best adept proficient better unsound bad worse
+best adept proficient better hard tough bad worst
+best adept proficient better hard tough bad worse
+best adept proficient better wild risky bad worst
+best adept proficient better wild risky bad worse
+best dependable better regretful bad worst
+best dependable better regretful bad worse
+best dependable better unfit bad worst
+best dependable better unfit bad worse
+best dependable better unsound bad worst
+best dependable better unsound bad worse
+best dependable better hard tough bad worst
+best dependable better hard tough bad worse
+best dependable better wild risky bad worst
+best dependable better wild risky bad worse
+best beneficial better regretful bad worst
+best beneficial better regretful bad worse
+best beneficial better unfit bad worst
+best beneficial better unfit bad worse
+best beneficial better unsound bad worst
+best beneficial better unsound bad worse
+best beneficial better hard tough bad worst
+best beneficial better hard tough bad worse
+best beneficial better wild risky bad worst
+best beneficial better wild risky bad worse
+best honorable better regretful bad worst
+best honorable better regretful bad worse
+best honorable better unfit bad worst
+best honorable better unfit bad worse
+best honorable better unsound bad worst
+best honorable better unsound bad worse
+best honorable better hard tough bad worst
+best honorable better hard tough bad worse
+best honorable better wild risky bad worst
+best honorable better wild risky bad worse
+best safe better regretful bad worst
+best safe better regretful bad worse
+best safe better unfit bad worst
+best safe better unfit bad worse
+best safe better unsound bad worst
+best safe better unsound bad worse
+best safe better hard tough bad worst
+best safe better hard tough bad worse
+best safe better wild risky bad worst
+best safe better wild risky bad worse
+best dependable safe better regretful bad worst
+best dependable safe better regretful bad worse
+best dependable safe better unfit bad worst
+best dependable safe better unfit bad worse
+best dependable safe better unsound bad worst
+best dependable safe better unsound bad worse
+best dependable safe better hard tough bad worst
+best dependable safe better hard tough bad worse
+best dependable safe better wild risky bad worst
+best dependable safe better wild risky bad worse
+best secure better regretful bad worst
+best secure better regretful bad worse
+best secure better unfit bad worst
+best secure better unfit bad worse
+best secure better unsound bad worst
+best secure better unsound bad worse
+best secure better hard tough bad worst
+best secure better hard tough bad worse
+best secure better wild risky bad worst
+best secure better wild risky bad worse
+best dependable secure better regretful bad worst
+best dependable secure better regretful bad worse
+best dependable secure better unfit bad worst
+best dependable secure better unfit bad worse
+best dependable secure better unsound bad worst
+best dependable secure better unsound bad worse
+best dependable secure better hard tough bad worst
+best dependable secure better hard tough bad worse
+best dependable secure better wild risky bad worst
+best dependable secure better wild risky bad worse
+best skilful better regretful bad worst
+best skilful better regretful bad worse
+best skilful better unfit bad worst
+best skilful better unfit bad worse
+best skilful better unsound bad worst
+best skilful better unsound bad worse
+best skilful better hard tough bad worst
+best skilful better hard tough bad worse
+best skilful better wild risky bad worst
+best skilful better wild risky bad worse
+best adept skilful better regretful bad worst
+best adept skilful better regretful bad worse
+best adept skilful better unfit bad worst
+best adept skilful better unfit bad worse
+best adept skilful better unsound bad worst
+best adept skilful better unsound bad worse
+best adept skilful better hard tough bad worst
+best adept skilful better hard tough bad worse
+best adept skilful better wild risky bad worst
+best adept skilful better wild risky bad worse
+best skillful better regretful bad worst
+best skillful better regretful bad worse
+best skillful better unfit bad worst
+best skillful better unfit bad worse
+best skillful better unsound bad worst
+best skillful better unsound bad worse
+best skillful better hard tough bad worst
+best skillful better hard tough bad worse
+best skillful better wild risky bad worst
+best skillful better wild risky bad worse
+best adept skillful better regretful bad worst
+best adept skillful better regretful bad worse
+best adept skillful better unfit bad worst
+best adept skillful better unfit bad worse
+best adept skillful better unsound bad worst
+best adept skillful better unsound bad worse
+best adept skillful better hard tough bad worst
+best adept skillful better hard tough bad worse
+best adept skillful better wild risky bad worst
+best adept skillful better wild risky bad worse
+best respectable better regretful bad worst
+best respectable better regretful bad worse
+best respectable better unfit bad worst
+best respectable better unfit bad worse
+best respectable better unsound bad worst
+best respectable better unsound bad worse
+best respectable better hard tough bad worst
+best respectable better hard tough bad worse
+best respectable better wild risky bad worst
+best respectable better wild risky bad worse
+best honorable respectable better regretful bad worst
+best honorable respectable better regretful bad worse
+best honorable respectable better unfit bad worst
+best honorable respectable better unfit bad worse
+best honorable respectable better unsound bad worst
+best honorable respectable better unsound bad worse
+best honorable respectable better hard tough bad worst
+best honorable respectable better hard tough bad worse
+best honorable respectable better wild risky bad worst
+best honorable respectable better wild risky bad worse
+best adept better regretful bad worst
+best adept better regretful bad worse
+best adept better unfit bad worst
+best adept better unfit bad worse
+best adept better unsound bad worst
+best adept better unsound bad worse
+best adept better hard tough bad worst
+best adept better hard tough bad worse
+best adept better wild risky bad worst
+best adept better wild risky bad worse
+best honest better regretful bad worst
+best honest better regretful bad worse
+best honest better unfit bad worst
+best honest better unfit bad worse
+best honest better unsound bad worst
+best honest better unsound bad worse
+best honest better hard tough bad worst
+best honest better hard tough bad worse
+best honest better wild risky bad worst
+best honest better wild risky bad worse
+best dependable honest better regretful bad worst
+best dependable honest better regretful bad worse
+best dependable honest better unfit bad worst
+best dependable honest better unfit bad worse
+best dependable honest better unsound bad worst
+best dependable honest better unsound bad worse
+best dependable honest better hard tough bad worst
+best dependable honest better hard tough bad worse
+best dependable honest better wild risky bad worst
+best dependable honest better wild risky bad worse
+best right better regretful bad worst
+best right better regretful bad worse
+best right better unfit bad worst
+best right better unfit bad worse
+best right better unsound bad worst
+best right better unsound bad worse
+best right better hard tough bad worst
+best right better hard tough bad worse
+best right better wild risky bad worst
+best right better wild risky bad worse
+best sound better regretful bad worst
+best sound better regretful bad worse
+best sound better unfit bad worst
+best sound better unfit bad worse
+best sound better hard tough bad worst
+best sound better hard tough bad worse
+best sound better wild risky bad worst
+best sound better wild risky bad worse
+best effective better regretful bad worst
+best effective better regretful bad worse
+best effective better unfit bad worst
+best effective better unfit bad worse
+best effective better unsound bad worst
+best effective better unsound bad worse
+best effective better hard tough bad worst
+best effective better hard tough bad worse
+best effective better wild risky bad worst
+best effective better wild risky bad worse
+best honorable ethical regretful bad worst
+best honorable ethical regretful bad worse
+best honorable ethical unfit bad worst
+best honorable ethical unfit bad worse
+best honorable ethical unsound bad worst
+best honorable ethical unsound bad worse
+best honorable ethical hard tough bad worst
+best honorable ethical hard tough bad worse
+best honorable ethical wild risky bad worst
+best honorable ethical wild risky bad worse
+unsympathetic unappealing likable appealing
+unsympathetic unlikable unappealing likable appealing
+virtuous pure severe wicked
+virtuous pure sinful unholy wicked
+virtuous pure sinful wicked
+virtuous pure unsavory distasteful revolting wicked
+virtuous pure unsavory distasteful wicked
+virtuous pure mischievous wicked
+virtuous virginal severe wicked
+virtuous virginal sinful unholy wicked
+virtuous virginal sinful wicked
+virtuous virginal unsavory distasteful revolting wicked
+virtuous virginal unsavory distasteful wicked
+virtuous virginal mischievous wicked
+best dependable reliable authentic regretful sorry worst
+best dependable reliable authentic regretful worst
+best dependable reliable authentic sad sorry worst
+best dependable reliable authentic unfit worst
+best dependable reliable authentic unsound worst
+best dependable reliable authentic hard tough worst
+best dependable reliable authentic dark sorry worst
+best dependable reliable authentic wild risky worst
+best dependable reliable authentic spoiled worst
+best dependable reliable authentic defective worst
+best dependable reliable authentic drab sorry worst
+best dear earnest solemn regretful sorry worst
+best dear earnest solemn regretful worst
+best dear earnest solemn sad sorry worst
+best dear earnest solemn unfit worst
+best dear earnest solemn unsound worst
+best dear earnest solemn hard tough worst
+best dear earnest solemn dark sorry worst
+best dear earnest solemn wild risky worst
+best dear earnest solemn spoiled worst
+best dear earnest solemn defective worst
+best dear earnest solemn drab sorry worst
+best honest fair regretful sorry worst
+best honest fair regretful worst
+best honest fair sad sorry worst
+best honest fair unfit worst
+best honest fair unsound worst
+best honest fair hard tough worst
+best honest fair dark sorry worst
+best honest fair wild risky worst
+best honest fair spoiled worst
+best honest fair defective worst
+best honest fair drab sorry worst
+best good honest fair regretful sorry worst
+best good honest fair regretful worst
+best good honest fair sad sorry worst
+best good honest fair unfit worst
+best good honest fair unsound worst
+best good honest fair hard tough worst
+best good honest fair dark sorry worst
+best good honest fair wild risky worst
+best good honest fair spoiled worst
+best good honest fair defective worst
+best good honest fair drab sorry worst
+best dependable honest fair regretful sorry worst
+best dependable honest fair regretful worst
+best dependable honest fair sad sorry worst
+best dependable honest fair unfit worst
+best dependable honest fair unsound worst
+best dependable honest fair hard tough worst
+best dependable honest fair dark sorry worst
+best dependable honest fair wild risky worst
+best dependable honest fair spoiled worst
+best dependable honest fair defective worst
+best dependable honest fair drab sorry worst
+best dear better regretful sorry worst
+best dear better regretful worst
+best dear better sad sorry worst
+best dear better unfit worst
+best dear better unsound worst
+best dear better hard tough worst
+best dear better dark sorry worst
+best dear better wild risky worst
+best dear better spoiled worst
+best dear better defective worst
+best dear better drab sorry worst
+best just better regretful sorry worst
+best just better regretful worst
+best just better sad sorry worst
+best just better unfit worst
+best just better unsound worst
+best just better hard tough worst
+best just better dark sorry worst
+best just better wild risky worst
+best just better spoiled worst
+best just better defective worst
+best just better drab sorry worst
+best good just better regretful sorry worst
+best good just better regretful worst
+best good just better sad sorry worst
+best good just better unfit worst
+best good just better unsound worst
+best good just better hard tough worst
+best good just better dark sorry worst
+best good just better wild risky worst
+best good just better spoiled worst
+best good just better defective worst
+best good just better drab sorry worst
+best proficient better regretful sorry worst
+best proficient better regretful worst
+best proficient better sad sorry worst
+best proficient better unfit worst
+best proficient better unsound worst
+best proficient better hard tough worst
+best proficient better dark sorry worst
+best proficient better wild risky worst
+best proficient better spoiled worst
+best proficient better defective worst
+best proficient better drab sorry worst
+best good proficient better regretful sorry worst
+best good proficient better regretful worst
+best good proficient better sad sorry worst
+best good proficient better unfit worst
+best good proficient better unsound worst
+best good proficient better hard tough worst
+best good proficient better dark sorry worst
+best good proficient better wild risky worst
+best good proficient better spoiled worst
+best good proficient better defective worst
+best good proficient better drab sorry worst
+best adept proficient better regretful sorry worst
+best adept proficient better regretful worst
+best adept proficient better sad sorry worst
+best adept proficient better unfit worst
+best adept proficient better unsound worst
+best adept proficient better hard tough worst
+best adept proficient better dark sorry worst
+best adept proficient better wild risky worst
+best adept proficient better spoiled worst
+best adept proficient better defective worst
+best adept proficient better drab sorry worst
+best dependable better regretful sorry worst
+best dependable better regretful worst
+best dependable better sad sorry worst
+best dependable better unfit worst
+best dependable better unsound worst
+best dependable better hard tough worst
+best dependable better dark sorry worst
+best dependable better wild risky worst
+best dependable better spoiled worst
+best dependable better defective worst
+best dependable better drab sorry worst
+best beneficial better regretful sorry worst
+best beneficial better regretful worst
+best beneficial better sad sorry worst
+best beneficial better unfit worst
+best beneficial better unsound worst
+best beneficial better hard tough worst
+best beneficial better dark sorry worst
+best beneficial better wild risky worst
+best beneficial better spoiled worst
+best beneficial better defective worst
+best beneficial better drab sorry worst
+best good beneficial better regretful sorry worst
+best good beneficial better regretful worst
+best good beneficial better sad sorry worst
+best good beneficial better unfit worst
+best good beneficial better unsound worst
+best good beneficial better hard tough worst
+best good beneficial better dark sorry worst
+best good beneficial better wild risky worst
+best good beneficial better spoiled worst
+best good beneficial better defective worst
+best good beneficial better drab sorry worst
+best honorable better regretful sorry worst
+best honorable better regretful worst
+best honorable better sad sorry worst
+best honorable better unfit worst
+best honorable better unsound worst
+best honorable better hard tough worst
+best honorable better dark sorry worst
+best honorable better wild risky worst
+best honorable better spoiled worst
+best honorable better defective worst
+best honorable better drab sorry worst
+best good honorable better regretful sorry worst
+best good honorable better regretful worst
+best good honorable better sad sorry worst
+best good honorable better unfit worst
+best good honorable better unsound worst
+best good honorable better hard tough worst
+best good honorable better dark sorry worst
+best good honorable better wild risky worst
+best good honorable better spoiled worst
+best good honorable better defective worst
+best good honorable better drab sorry worst
+best safe better regretful sorry worst
+best safe better regretful worst
+best safe better sad sorry worst
+best safe better unfit worst
+best safe better unsound worst
+best safe better hard tough worst
+best safe better dark sorry worst
+best safe better wild risky worst
+best safe better spoiled worst
+best safe better defective worst
+best safe better drab sorry worst
+best good safe better regretful sorry worst
+best good safe better regretful worst
+best good safe better sad sorry worst
+best good safe better unfit worst
+best good safe better unsound worst
+best good safe better hard tough worst
+best good safe better dark sorry worst
+best good safe better wild risky worst
+best good safe better spoiled worst
+best good safe better defective worst
+best good safe better drab sorry worst
+best dependable safe better regretful sorry worst
+best dependable safe better regretful worst
+best dependable safe better sad sorry worst
+best dependable safe better unfit worst
+best dependable safe better unsound worst
+best dependable safe better hard tough worst
+best dependable safe better dark sorry worst
+best dependable safe better wild risky worst
+best dependable safe better spoiled worst
+best dependable safe better defective worst
+best dependable safe better drab sorry worst
+best secure better regretful sorry worst
+best secure better regretful worst
+best secure better sad sorry worst
+best secure better unfit worst
+best secure better unsound worst
+best secure better hard tough worst
+best secure better dark sorry worst
+best secure better wild risky worst
+best secure better spoiled worst
+best secure better defective worst
+best secure better drab sorry worst
+best dependable secure better regretful sorry worst
+best dependable secure better regretful worst
+best dependable secure better sad sorry worst
+best dependable secure better unfit worst
+best dependable secure better unsound worst
+best dependable secure better hard tough worst
+best dependable secure better dark sorry worst
+best dependable secure better wild risky worst
+best dependable secure better spoiled worst
+best dependable secure better defective worst
+best dependable secure better drab sorry worst
+best good secure better regretful sorry worst
+best good secure better regretful worst
+best good secure better sad sorry worst
+best good secure better unfit worst
+best good secure better unsound worst
+best good secure better hard tough worst
+best good secure better dark sorry worst
+best good secure better wild risky worst
+best good secure better spoiled worst
+best good secure better defective worst
+best good secure better drab sorry worst
+best skilful better regretful sorry worst
+best skilful better regretful worst
+best skilful better sad sorry worst
+best skilful better unfit worst
+best skilful better unsound worst
+best skilful better hard tough worst
+best skilful better dark sorry worst
+best skilful better wild risky worst
+best skilful better spoiled worst
+best skilful better defective worst
+best skilful better drab sorry worst
+best good skilful better regretful sorry worst
+best good skilful better regretful worst
+best good skilful better sad sorry worst
+best good skilful better unfit worst
+best good skilful better unsound worst
+best good skilful better hard tough worst
+best good skilful better dark sorry worst
+best good skilful better wild risky worst
+best good skilful better spoiled worst
+best good skilful better defective worst
+best good skilful better drab sorry worst
+best adept skilful better regretful sorry worst
+best adept skilful better regretful worst
+best adept skilful better sad sorry worst
+best adept skilful better unfit worst
+best adept skilful better unsound worst
+best adept skilful better hard tough worst
+best adept skilful better dark sorry worst
+best adept skilful better wild risky worst
+best adept skilful better spoiled worst
+best adept skilful better defective worst
+best adept skilful better drab sorry worst
+best skillful better regretful sorry worst
+best skillful better regretful worst
+best skillful better sad sorry worst
+best skillful better unfit worst
+best skillful better unsound worst
+best skillful better hard tough worst
+best skillful better dark sorry worst
+best skillful better wild risky worst
+best skillful better spoiled worst
+best skillful better defective worst
+best skillful better drab sorry worst
+best good skillful better regretful sorry worst
+best good skillful better regretful worst
+best good skillful better sad sorry worst
+best good skillful better unfit worst
+best good skillful better unsound worst
+best good skillful better hard tough worst
+best good skillful better dark sorry worst
+best good skillful better wild risky worst
+best good skillful better spoiled worst
+best good skillful better defective worst
+best good skillful better drab sorry worst
+best adept skillful better regretful sorry worst
+best adept skillful better regretful worst
+best adept skillful better sad sorry worst
+best adept skillful better unfit worst
+best adept skillful better unsound worst
+best adept skillful better hard tough worst
+best adept skillful better dark sorry worst
+best adept skillful better wild risky worst
+best adept skillful better spoiled worst
+best adept skillful better defective worst
+best adept skillful better drab sorry worst
+best good respectable better regretful sorry worst
+best good respectable better regretful worst
+best good respectable better sad sorry worst
+best good respectable better unfit worst
+best good respectable better unsound worst
+best good respectable better hard tough worst
+best good respectable better dark sorry worst
+best good respectable better wild risky worst
+best good respectable better spoiled worst
+best good respectable better defective worst
+best good respectable better drab sorry worst
+best respectable better regretful sorry worst
+best respectable better regretful worst
+best respectable better sad sorry worst
+best respectable better unfit worst
+best respectable better unsound worst
+best respectable better hard tough worst
+best respectable better dark sorry worst
+best respectable better wild risky worst
+best respectable better spoiled worst
+best respectable better defective worst
+best respectable better drab sorry worst
+best honorable respectable better regretful sorry worst
+best honorable respectable better regretful worst
+best honorable respectable better sad sorry worst
+best honorable respectable better unfit worst
+best honorable respectable better unsound worst
+best honorable respectable better hard tough worst
+best honorable respectable better dark sorry worst
+best honorable respectable better wild risky worst
+best honorable respectable better spoiled worst
+best honorable respectable better defective worst
+best honorable respectable better drab sorry worst
+best good honorable respectable better regretful sorry worst
+best good honorable respectable better regretful worst
+best good honorable respectable better sad sorry worst
+best good honorable respectable better unfit worst
+best good honorable respectable better unsound worst
+best good honorable respectable better hard tough worst
+best good honorable respectable better dark sorry worst
+best good honorable respectable better wild risky worst
+best good honorable respectable better spoiled worst
+best good honorable respectable better defective worst
+best good honorable respectable better drab sorry worst
+best adept better regretful sorry worst
+best adept better regretful worst
+best adept better sad sorry worst
+best adept better unfit worst
+best adept better unsound worst
+best adept better hard tough worst
+best adept better dark sorry worst
+best adept better wild risky worst
+best adept better spoiled worst
+best adept better defective worst
+best adept better drab sorry worst
+best honest better regretful sorry worst
+best honest better regretful worst
+best honest better sad sorry worst
+best honest better unfit worst
+best honest better unsound worst
+best honest better hard tough worst
+best honest better dark sorry worst
+best honest better wild risky worst
+best honest better spoiled worst
+best honest better defective worst
+best honest better drab sorry worst
+best good honest better regretful sorry worst
+best good honest better regretful worst
+best good honest better sad sorry worst
+best good honest better unfit worst
+best good honest better unsound worst
+best good honest better hard tough worst
+best good honest better dark sorry worst
+best good honest better wild risky worst
+best good honest better spoiled worst
+best good honest better defective worst
+best good honest better drab sorry worst
+best dependable honest better regretful sorry worst
+best dependable honest better regretful worst
+best dependable honest better sad sorry worst
+best dependable honest better unfit worst
+best dependable honest better unsound worst
+best dependable honest better hard tough worst
+best dependable honest better dark sorry worst
+best dependable honest better wild risky worst
+best dependable honest better spoiled worst
+best dependable honest better defective worst
+best dependable honest better drab sorry worst
+best right better regretful sorry worst
+best right better regretful worst
+best right better sad sorry worst
+best right better unfit worst
+best right better unsound worst
+best right better hard tough worst
+best right better dark sorry worst
+best right better wild risky worst
+best right better spoiled worst
+best right better defective worst
+best right better drab sorry worst
+best good right better regretful sorry worst
+best good right better regretful worst
+best good right better sad sorry worst
+best good right better unfit worst
+best good right better unsound worst
+best good right better hard tough worst
+best good right better dark sorry worst
+best good right better wild risky worst
+best good right better spoiled worst
+best good right better defective worst
+best good right better drab sorry worst
+best sound better regretful sorry worst
+best sound better regretful worst
+best sound better sad sorry worst
+best sound better unfit worst
+best sound better hard tough worst
+best sound better dark sorry worst
+best sound better wild risky worst
+best sound better spoiled worst
+best sound better defective worst
+best sound better drab sorry worst
+best good sound better regretful sorry worst
+best good sound better regretful worst
+best good sound better sad sorry worst
+best good sound better unfit worst
+best good sound better hard tough worst
+best good sound better dark sorry worst
+best good sound better wild risky worst
+best good sound better spoiled worst
+best good sound better defective worst
+best good sound better drab sorry worst
+best good effective better regretful sorry worst
+best good effective better regretful worst
+best good effective better sad sorry worst
+best good effective better unfit worst
+best good effective better unsound worst
+best good effective better hard tough worst
+best good effective better dark sorry worst
+best good effective better wild risky worst
+best good effective better spoiled worst
+best good effective better defective worst
+best good effective better drab sorry worst
+best effective better regretful sorry worst
+best effective better regretful worst
+best effective better sad sorry worst
+best effective better unfit worst
+best effective better unsound worst
+best effective better hard tough worst
+best effective better dark sorry worst
+best effective better wild risky worst
+best effective better spoiled worst
+best effective better defective worst
+best effective better drab sorry worst
+best good better regretful sorry worst
+best good better regretful worst
+best good better sad sorry worst
+best good better unfit worst
+best good better unsound worst
+best good better hard tough worst
+best good better dark sorry worst
+best good better wild risky worst
+best good better spoiled worst
+best good better defective worst
+best good better drab sorry worst
+best honorable ethical regretful sorry worst
+best honorable ethical regretful worst
+best honorable ethical sad sorry worst
+best honorable ethical unfit worst
+best honorable ethical unsound worst
+best honorable ethical hard tough worst
+best honorable ethical dark sorry worst
+best honorable ethical wild risky worst
+best honorable ethical spoiled worst
+best honorable ethical defective worst
+best honorable ethical drab sorry worst
+best good honorable ethical regretful sorry worst
+best good honorable ethical regretful worst
+best good honorable ethical sad sorry worst
+best good honorable ethical unfit worst
+best good honorable ethical unsound worst
+best good honorable ethical hard tough worst
+best good honorable ethical dark sorry worst
+best good honorable ethical wild risky worst
+best good honorable ethical spoiled worst
+best good honorable ethical defective worst
+best good honorable ethical drab sorry worst
+egregious gross crude raw graceful refined
+egregious gross crude raw tasteful refined
+egregious gross crude raw tasteful neat refined
+egregious gross crude raw polished refined
+rude crude raw graceful refined
+rude crude raw tasteful refined
+rude crude raw tasteful neat refined
+rude crude raw polished refined
+vulgar crude raw graceful refined
+vulgar crude raw tasteful refined
+vulgar crude raw tasteful neat refined
+vulgar crude raw polished refined
+egregious gross crude earthy graceful refined
+egregious gross crude earthy tasteful refined
+egregious gross crude earthy tasteful neat refined
+egregious gross crude earthy polished refined
+rude crude earthy graceful refined
+rude crude earthy tasteful refined
+rude crude earthy tasteful neat refined
+rude crude earthy polished refined
+vulgar crude earthy graceful refined
+vulgar crude earthy tasteful refined
+vulgar crude earthy tasteful neat refined
+vulgar crude earthy polished refined
+egregious gross crude blunt graceful refined
+egregious gross crude blunt tasteful refined
+egregious gross crude blunt tasteful neat refined
+egregious gross crude blunt polished refined
+rude crude blunt graceful refined
+rude crude blunt tasteful refined
+rude crude blunt tasteful neat refined
+rude crude blunt polished refined
+vulgar crude blunt graceful refined
+vulgar crude blunt tasteful refined
+vulgar crude blunt tasteful neat refined
+vulgar crude blunt polished refined
+egregious gross crude rough graceful refined
+egregious gross crude rough tasteful refined
+egregious gross crude rough tasteful neat refined
+egregious gross crude rough polished refined
+rude crude rough graceful refined
+rude crude rough tasteful refined
+rude crude rough tasteful neat refined
+rude crude rough polished refined
+vulgar crude rough graceful refined
+vulgar crude rough tasteful refined
+vulgar crude rough tasteful neat refined
+vulgar crude rough polished refined
+egregious gross crude stark graceful refined
+egregious gross crude stark tasteful refined
+egregious gross crude stark tasteful neat refined
+egregious gross crude stark polished refined
+rude crude stark graceful refined
+rude crude stark tasteful refined
+rude crude stark tasteful neat refined
+rude crude stark polished refined
+vulgar crude stark graceful refined
+vulgar crude stark tasteful refined
+vulgar crude stark tasteful neat refined
+vulgar crude stark polished refined
+ineffectual unable able capable
+ineffective unable able capable
+penetrating incisive sharp flat monotonous
+penetrating sharp flat monotonous
+astute sharp flat monotonous
+exquisite keen sharp flat monotonous
+penetrating keen sharp flat monotonous
+outstanding great dandy keen sharp flat monotonous
+outstanding great keen sharp flat monotonous
+crisp sharp flat monotonous
+problematic tough hard warm tender
+problematic tough hard warm fond tender
+problematic tough hard warm affectionate tender
+problematic tough hard sensitive tender
+worst tough hard warm tender
+worst tough hard warm fond tender
+worst tough hard warm affectionate tender
+worst tough hard sensitive tender
+worst bad tough hard warm tender
+worst bad tough hard warm fond tender
+worst bad tough hard warm affectionate tender
+worst bad tough hard sensitive tender
+worse bad tough hard warm tender
+worse bad tough hard warm fond tender
+worse bad tough hard warm affectionate tender
+worse bad tough hard sensitive tender
+worse tough hard warm tender
+worse tough hard warm fond tender
+worse tough hard warm affectionate tender
+worse tough hard sensitive tender
+lifelike natural flat monotonous
+evil malevolent fair honest good best
+evil malevolent better just good best
+evil malevolent better proficient good best
+evil malevolent better beneficial good best
+evil malevolent better honorable good best
+evil malevolent better safe good best
+evil malevolent better secure good best
+evil malevolent better skilful good best
+evil malevolent better skillful good best
+evil malevolent better respectable good best
+evil malevolent better respectable honorable good best
+evil malevolent better honest good best
+evil malevolent better right good best
+evil malevolent better sound good best
+evil malevolent better effective good best
+evil malevolent better good best
+evil malevolent ethical honorable good best
+dumb dull slow sharp incisive penetrating
+dumb dull slow sharp penetrating
+dumb dull slow sharp astute
+dumb dull slow sharp keen exquisite
+dumb dull slow sharp keen penetrating
+dumb dull slow sharp keen dandy great outstanding
+dumb dull slow sharp keen great outstanding
+dumb dull slow sharp crisp
+boring dull slow sharp incisive penetrating
+boring dull slow sharp penetrating
+boring dull slow sharp astute
+boring dull slow sharp keen exquisite
+boring dull slow sharp keen penetrating
+boring dull slow sharp keen dandy great outstanding
+boring dull slow sharp keen great outstanding
+boring dull slow sharp crisp
+wearisome dull slow sharp incisive penetrating
+wearisome dull slow sharp penetrating
+wearisome dull slow sharp astute
+wearisome dull slow sharp keen exquisite
+wearisome dull slow sharp keen penetrating
+wearisome dull slow sharp keen dandy great outstanding
+wearisome dull slow sharp keen great outstanding
+wearisome dull slow sharp crisp
+tedious dull slow sharp incisive penetrating
+tedious dull slow sharp penetrating
+tedious dull slow sharp astute
+tedious dull slow sharp keen exquisite
+tedious dull slow sharp keen penetrating
+tedious dull slow sharp keen dandy great outstanding
+tedious dull slow sharp keen great outstanding
+tedious dull slow sharp crisp
+dense dull slow sharp incisive penetrating
+dense dull slow sharp penetrating
+dense dull slow sharp astute
+dense dull slow sharp keen exquisite
+dense dull slow sharp keen penetrating
+dense dull slow sharp keen dandy great outstanding
+dense dull slow sharp keen great outstanding
+dense dull slow sharp crisp
+dumb dull dim sharp incisive penetrating
+dumb dull dim sharp penetrating
+dumb dull dim sharp astute
+dumb dull dim sharp keen exquisite
+dumb dull dim sharp keen penetrating
+dumb dull dim sharp keen dandy great outstanding
+dumb dull dim sharp keen great outstanding
+dumb dull dim sharp crisp
+boring dull dim sharp incisive penetrating
+boring dull dim sharp penetrating
+boring dull dim sharp astute
+boring dull dim sharp keen exquisite
+boring dull dim sharp keen penetrating
+boring dull dim sharp keen dandy great outstanding
+boring dull dim sharp keen great outstanding
+boring dull dim sharp crisp
+wearisome dull dim sharp incisive penetrating
+wearisome dull dim sharp penetrating
+wearisome dull dim sharp astute
+wearisome dull dim sharp keen exquisite
+wearisome dull dim sharp keen penetrating
+wearisome dull dim sharp keen dandy great outstanding
+wearisome dull dim sharp keen great outstanding
+wearisome dull dim sharp crisp
+tedious dull dim sharp incisive penetrating
+tedious dull dim sharp penetrating
+tedious dull dim sharp astute
+tedious dull dim sharp keen exquisite
+tedious dull dim sharp keen penetrating
+tedious dull dim sharp keen dandy great outstanding
+tedious dull dim sharp keen great outstanding
+tedious dull dim sharp crisp
+dense dull dim sharp incisive penetrating
+dense dull dim sharp penetrating
+dense dull dim sharp astute
+dense dull dim sharp keen exquisite
+dense dull dim sharp keen penetrating
+dense dull dim sharp keen dandy great outstanding
+dense dull dim sharp keen great outstanding
+dense dull dim sharp crisp
+dumb dull ho-hum sharp incisive penetrating
+dumb dull ho-hum sharp penetrating
+dumb dull ho-hum sharp astute
+dumb dull ho-hum sharp keen exquisite
+dumb dull ho-hum sharp keen penetrating
+dumb dull ho-hum sharp keen dandy great outstanding
+dumb dull ho-hum sharp keen great outstanding
+dumb dull ho-hum sharp crisp
+boring dull ho-hum sharp incisive penetrating
+boring dull ho-hum sharp penetrating
+boring dull ho-hum sharp astute
+boring dull ho-hum sharp keen exquisite
+boring dull ho-hum sharp keen penetrating
+boring dull ho-hum sharp keen dandy great outstanding
+boring dull ho-hum sharp keen great outstanding
+boring dull ho-hum sharp crisp
+wearisome dull ho-hum sharp incisive penetrating
+wearisome dull ho-hum sharp penetrating
+wearisome dull ho-hum sharp astute
+wearisome dull ho-hum sharp keen exquisite
+wearisome dull ho-hum sharp keen penetrating
+wearisome dull ho-hum sharp keen dandy great outstanding
+wearisome dull ho-hum sharp keen great outstanding
+wearisome dull ho-hum sharp crisp
+tedious dull ho-hum sharp incisive penetrating
+tedious dull ho-hum sharp penetrating
+tedious dull ho-hum sharp astute
+tedious dull ho-hum sharp keen exquisite
+tedious dull ho-hum sharp keen penetrating
+tedious dull ho-hum sharp keen dandy great outstanding
+tedious dull ho-hum sharp keen great outstanding
+tedious dull ho-hum sharp crisp
+dense dull ho-hum sharp incisive penetrating
+dense dull ho-hum sharp penetrating
+dense dull ho-hum sharp astute
+dense dull ho-hum sharp keen exquisite
+dense dull ho-hum sharp keen penetrating
+dense dull ho-hum sharp keen dandy great outstanding
+dense dull ho-hum sharp keen great outstanding
+dense dull ho-hum sharp crisp
+dumb dull obtuse sharp incisive penetrating
+dumb dull obtuse sharp penetrating
+dumb dull obtuse sharp astute
+dumb dull obtuse sharp keen exquisite
+dumb dull obtuse sharp keen penetrating
+dumb dull obtuse sharp keen dandy great outstanding
+dumb dull obtuse sharp keen great outstanding
+dumb dull obtuse sharp crisp
+boring dull obtuse sharp incisive penetrating
+boring dull obtuse sharp penetrating
+boring dull obtuse sharp astute
+boring dull obtuse sharp keen exquisite
+boring dull obtuse sharp keen penetrating
+boring dull obtuse sharp keen dandy great outstanding
+boring dull obtuse sharp keen great outstanding
+boring dull obtuse sharp crisp
+wearisome dull obtuse sharp incisive penetrating
+wearisome dull obtuse sharp penetrating
+wearisome dull obtuse sharp astute
+wearisome dull obtuse sharp keen exquisite
+wearisome dull obtuse sharp keen penetrating
+wearisome dull obtuse sharp keen dandy great outstanding
+wearisome dull obtuse sharp keen great outstanding
+wearisome dull obtuse sharp crisp
+tedious dull obtuse sharp incisive penetrating
+tedious dull obtuse sharp penetrating
+tedious dull obtuse sharp astute
+tedious dull obtuse sharp keen exquisite
+tedious dull obtuse sharp keen penetrating
+tedious dull obtuse sharp keen dandy great outstanding
+tedious dull obtuse sharp keen great outstanding
+tedious dull obtuse sharp crisp
+dense dull obtuse sharp incisive penetrating
+dense dull obtuse sharp penetrating
+dense dull obtuse sharp astute
+dense dull obtuse sharp keen exquisite
+dense dull obtuse sharp keen penetrating
+dense dull obtuse sharp keen dandy great outstanding
+dense dull obtuse sharp keen great outstanding
+dense dull obtuse sharp crisp
+smoother quiet rough harsh abrasive
+smoother quiet rough fierce savage vicious
+smoother quiet rough fierce savage brutal
+smoother quiet rough fierce savage cruel vicious
+smoother quiet rough fierce savage cruel brutal
+smoother quiet rough fierce savage furious
+smoother quiet rough fierce furious
+smoother quiet rough crude gross egregious
+smoother quiet rough crude rude
+smoother quiet rough crude vulgar
+smoother quiet rough grating
+best dependable reliable authentic malevolent evil
+best dear earnest solemn malevolent evil
+best honest fair malevolent evil
+best dependable honest fair malevolent evil
+best dear better malevolent evil
+best just better malevolent evil
+best proficient better malevolent evil
+best adept proficient better malevolent evil
+best dependable better malevolent evil
+best beneficial better malevolent evil
+best honorable better malevolent evil
+best safe better malevolent evil
+best dependable safe better malevolent evil
+best secure better malevolent evil
+best dependable secure better malevolent evil
+best skilful better malevolent evil
+best adept skilful better malevolent evil
+best skillful better malevolent evil
+best adept skillful better malevolent evil
+best respectable better malevolent evil
+best honorable respectable better malevolent evil
+best adept better malevolent evil
+best honest better malevolent evil
+best dependable honest better malevolent evil
+best right better malevolent evil
+best sound better malevolent evil
+best effective better malevolent evil
+best honorable ethical malevolent evil
+rude crude raw civil polite
+rude raw civil polite
+rude primitive civil polite
+rude crude earthy civil polite
+rude crude blunt civil polite
+rude crude rough civil polite
+rude crude stark civil polite
+rude ill-mannered civil polite
+ineffectual unable better effective efficient
+ineffectual unable better effective good best
+ineffectual unable better effective best
+filthy lousy dirty muddy cloudy readable clear clear-cut
+filthy lousy dirty muddy cloudy readable clear well-defined
+filthy dirty muddy cloudy readable clear clear-cut
+filthy dirty muddy cloudy readable clear well-defined
+foul dirty muddy cloudy readable clear clear-cut
+foul dirty muddy cloudy readable clear well-defined
+sloppy muddy cloudy readable clear clear-cut
+sloppy muddy cloudy readable clear well-defined
+dismal dreary dingy muddy cloudy readable clear clear-cut
+dismal dreary dingy muddy cloudy readable clear well-defined
+dismal dingy muddy cloudy readable clear clear-cut
+dismal dingy muddy cloudy readable clear well-defined
+worse sorry regretful better dear best
+worse sorry regretful better dear beloved
+worse sorry regretful better just best
+worse sorry regretful better proficient best
+worse sorry regretful better proficient adept best
+worse sorry regretful better dependable best
+worse sorry regretful better beneficial best
+worse sorry regretful better honorable best
+worse sorry regretful better safe best
+worse sorry regretful better safe dependable best
+worse sorry regretful better secure best
+worse sorry regretful better secure dependable best
+worse sorry regretful better secure strong unassailable
+worse sorry regretful better secure unassailable
+worse sorry regretful better skilful best
+worse sorry regretful better skilful adept best
+worse sorry regretful better skillful best
+worse sorry regretful better skillful adept best
+worse sorry regretful better respectable healthy intelligent
+worse sorry regretful better respectable best
+worse sorry regretful better respectable honorable best
+worse sorry regretful better adept best
+worse sorry regretful better honest best
+worse sorry regretful better honest dependable best
+worse sorry regretful better right best
+worse sorry regretful better right correct
+worse sorry regretful better sound best
+worse sorry regretful better sound intelligent
+worse sorry regretful better sound profound
+worse sorry regretful better sound healthy intelligent
+worse sorry regretful better effective efficient
+worse sorry regretful better effective best
+worse bad regretful better dear beloved
+worse bad regretful better secure strong unassailable
+worse bad regretful better secure unassailable
+worse bad regretful better respectable healthy intelligent
+worse bad regretful better right correct
+worse bad regretful better sound intelligent
+worse bad regretful better sound profound
+worse bad regretful better sound healthy intelligent
+worse bad regretful better effective efficient
+worse regretful better dear best
+worse regretful better dear beloved
+worse regretful better just best
+worse regretful better proficient best
+worse regretful better proficient adept best
+worse regretful better dependable best
+worse regretful better beneficial best
+worse regretful better honorable best
+worse regretful better safe best
+worse regretful better safe dependable best
+worse regretful better secure best
+worse regretful better secure dependable best
+worse regretful better secure strong unassailable
+worse regretful better secure unassailable
+worse regretful better skilful best
+worse regretful better skilful adept best
+worse regretful better skillful best
+worse regretful better skillful adept best
+worse regretful better respectable healthy intelligent
+worse regretful better respectable best
+worse regretful better respectable honorable best
+worse regretful better adept best
+worse regretful better honest best
+worse regretful better honest dependable best
+worse regretful better right best
+worse regretful better right correct
+worse regretful better sound best
+worse regretful better sound intelligent
+worse regretful better sound profound
+worse regretful better sound healthy intelligent
+worse regretful better effective efficient
+worse regretful better effective best
+worse sorry sad better dear best
+worse sorry sad better dear beloved
+worse sorry sad better just best
+worse sorry sad better proficient best
+worse sorry sad better proficient adept best
+worse sorry sad better dependable best
+worse sorry sad better beneficial best
+worse sorry sad better honorable best
+worse sorry sad better safe best
+worse sorry sad better safe dependable best
+worse sorry sad better secure best
+worse sorry sad better secure dependable best
+worse sorry sad better secure strong unassailable
+worse sorry sad better secure unassailable
+worse sorry sad better skilful best
+worse sorry sad better skilful adept best
+worse sorry sad better skillful best
+worse sorry sad better skillful adept best
+worse sorry sad better respectable healthy intelligent
+worse sorry sad better respectable best
+worse sorry sad better respectable honorable best
+worse sorry sad better adept best
+worse sorry sad better honest best
+worse sorry sad better honest dependable best
+worse sorry sad better right best
+worse sorry sad better right correct
+worse sorry sad better sound best
+worse sorry sad better sound intelligent
+worse sorry sad better sound profound
+worse sorry sad better sound healthy intelligent
+worse sorry sad better effective efficient
+worse sorry sad better effective best
+worse bad unfit better dear beloved
+worse bad unfit better secure strong unassailable
+worse bad unfit better secure unassailable
+worse bad unfit better respectable healthy intelligent
+worse bad unfit better right correct
+worse bad unfit better sound intelligent
+worse bad unfit better sound profound
+worse bad unfit better sound healthy intelligent
+worse bad unfit better effective efficient
+worse unfit better dear best
+worse unfit better dear beloved
+worse unfit better just best
+worse unfit better proficient best
+worse unfit better proficient adept best
+worse unfit better dependable best
+worse unfit better beneficial best
+worse unfit better honorable best
+worse unfit better safe best
+worse unfit better safe dependable best
+worse unfit better secure best
+worse unfit better secure dependable best
+worse unfit better secure strong unassailable
+worse unfit better secure unassailable
+worse unfit better skilful best
+worse unfit better skilful adept best
+worse unfit better skillful best
+worse unfit better skillful adept best
+worse unfit better respectable healthy intelligent
+worse unfit better respectable best
+worse unfit better respectable honorable best
+worse unfit better adept best
+worse unfit better honest best
+worse unfit better honest dependable best
+worse unfit better right best
+worse unfit better right correct
+worse unfit better sound best
+worse unfit better sound intelligent
+worse unfit better sound profound
+worse unfit better sound healthy intelligent
+worse unfit better effective efficient
+worse unfit better effective best
+worse bad unsound better dear beloved
+worse bad unsound better secure strong unassailable
+worse bad unsound better secure unassailable
+worse bad unsound better respectable healthy intelligent
+worse bad unsound better right correct
+worse bad unsound better effective efficient
+worse unsound better dear best
+worse unsound better dear beloved
+worse unsound better just best
+worse unsound better proficient best
+worse unsound better proficient adept best
+worse unsound better dependable best
+worse unsound better beneficial best
+worse unsound better honorable best
+worse unsound better safe best
+worse unsound better safe dependable best
+worse unsound better secure best
+worse unsound better secure dependable best
+worse unsound better secure strong unassailable
+worse unsound better secure unassailable
+worse unsound better skilful best
+worse unsound better skilful adept best
+worse unsound better skillful best
+worse unsound better skillful adept best
+worse unsound better respectable healthy intelligent
+worse unsound better respectable best
+worse unsound better respectable honorable best
+worse unsound better adept best
+worse unsound better honest best
+worse unsound better honest dependable best
+worse unsound better right best
+worse unsound better right correct
+worse unsound better effective efficient
+worse unsound better effective best
+worse bad tough hard better dear beloved
+worse bad tough hard better secure strong unassailable
+worse bad tough hard better secure unassailable
+worse bad tough hard better respectable healthy intelligent
+worse bad tough hard better right correct
+worse bad tough hard better sound intelligent
+worse bad tough hard better sound profound
+worse bad tough hard better sound healthy intelligent
+worse bad tough hard better effective efficient
+worse tough hard better dear best
+worse tough hard better dear beloved
+worse tough hard better just best
+worse tough hard better proficient best
+worse tough hard better proficient adept best
+worse tough hard better dependable best
+worse tough hard better beneficial best
+worse tough hard better honorable best
+worse tough hard better safe best
+worse tough hard better safe dependable best
+worse tough hard better secure best
+worse tough hard better secure dependable best
+worse tough hard better secure strong unassailable
+worse tough hard better secure unassailable
+worse tough hard better skilful best
+worse tough hard better skilful adept best
+worse tough hard better skillful best
+worse tough hard better skillful adept best
+worse tough hard better respectable healthy intelligent
+worse tough hard better respectable best
+worse tough hard better respectable honorable best
+worse tough hard better adept best
+worse tough hard better honest best
+worse tough hard better honest dependable best
+worse tough hard better right best
+worse tough hard better right correct
+worse tough hard better sound best
+worse tough hard better sound intelligent
+worse tough hard better sound profound
+worse tough hard better sound healthy intelligent
+worse tough hard better effective efficient
+worse tough hard better effective best
+worse sorry dark better dear best
+worse sorry dark better dear beloved
+worse sorry dark better just best
+worse sorry dark better proficient best
+worse sorry dark better proficient adept best
+worse sorry dark better dependable best
+worse sorry dark better beneficial best
+worse sorry dark better honorable best
+worse sorry dark better safe best
+worse sorry dark better safe dependable best
+worse sorry dark better secure best
+worse sorry dark better secure dependable best
+worse sorry dark better secure strong unassailable
+worse sorry dark better secure unassailable
+worse sorry dark better skilful best
+worse sorry dark better skilful adept best
+worse sorry dark better skillful best
+worse sorry dark better skillful adept best
+worse sorry dark better respectable healthy intelligent
+worse sorry dark better respectable best
+worse sorry dark better respectable honorable best
+worse sorry dark better adept best
+worse sorry dark better honest best
+worse sorry dark better honest dependable best
+worse sorry dark better right best
+worse sorry dark better right correct
+worse sorry dark better sound best
+worse sorry dark better sound intelligent
+worse sorry dark better sound profound
+worse sorry dark better sound healthy intelligent
+worse sorry dark better effective efficient
+worse sorry dark better effective best
+worse bad risky wild better dear beloved
+worse bad risky wild better secure strong unassailable
+worse bad risky wild better secure unassailable
+worse bad risky wild better respectable healthy intelligent
+worse bad risky wild better right correct
+worse bad risky wild better sound intelligent
+worse bad risky wild better sound profound
+worse bad risky wild better sound healthy intelligent
+worse bad risky wild better effective efficient
+worse risky wild better dear best
+worse risky wild better dear beloved
+worse risky wild better just best
+worse risky wild better proficient best
+worse risky wild better proficient adept best
+worse risky wild better dependable best
+worse risky wild better beneficial best
+worse risky wild better honorable best
+worse risky wild better safe best
+worse risky wild better safe dependable best
+worse risky wild better secure best
+worse risky wild better secure dependable best
+worse risky wild better secure strong unassailable
+worse risky wild better secure unassailable
+worse risky wild better skilful best
+worse risky wild better skilful adept best
+worse risky wild better skillful best
+worse risky wild better skillful adept best
+worse risky wild better respectable healthy intelligent
+worse risky wild better respectable best
+worse risky wild better respectable honorable best
+worse risky wild better adept best
+worse risky wild better honest best
+worse risky wild better honest dependable best
+worse risky wild better right best
+worse risky wild better right correct
+worse risky wild better sound best
+worse risky wild better sound intelligent
+worse risky wild better sound profound
+worse risky wild better sound healthy intelligent
+worse risky wild better effective efficient
+worse risky wild better effective best
+worse spoiled better dear best
+worse spoiled better dear beloved
+worse spoiled better just best
+worse spoiled better proficient best
+worse spoiled better proficient adept best
+worse spoiled better dependable best
+worse spoiled better beneficial best
+worse spoiled better honorable best
+worse spoiled better safe best
+worse spoiled better safe dependable best
+worse spoiled better secure best
+worse spoiled better secure dependable best
+worse spoiled better secure strong unassailable
+worse spoiled better secure unassailable
+worse spoiled better skilful best
+worse spoiled better skilful adept best
+worse spoiled better skillful best
+worse spoiled better skillful adept best
+worse spoiled better respectable healthy intelligent
+worse spoiled better respectable best
+worse spoiled better respectable honorable best
+worse spoiled better adept best
+worse spoiled better honest best
+worse spoiled better honest dependable best
+worse spoiled better right best
+worse spoiled better right correct
+worse spoiled better sound best
+worse spoiled better sound intelligent
+worse spoiled better sound profound
+worse spoiled better sound healthy intelligent
+worse spoiled better effective efficient
+worse spoiled better effective best
+worse defective better dear best
+worse defective better dear beloved
+worse defective better just best
+worse defective better proficient best
+worse defective better proficient adept best
+worse defective better dependable best
+worse defective better beneficial best
+worse defective better honorable best
+worse defective better safe best
+worse defective better safe dependable best
+worse defective better secure best
+worse defective better secure dependable best
+worse defective better secure strong unassailable
+worse defective better secure unassailable
+worse defective better skilful best
+worse defective better skilful adept best
+worse defective better skillful best
+worse defective better skillful adept best
+worse defective better respectable healthy intelligent
+worse defective better respectable best
+worse defective better respectable honorable best
+worse defective better adept best
+worse defective better honest best
+worse defective better honest dependable best
+worse defective better right best
+worse defective better right correct
+worse defective better sound best
+worse defective better sound intelligent
+worse defective better sound profound
+worse defective better sound healthy intelligent
+worse defective better effective efficient
+worse defective better effective best
+worse sorry drab better dear best
+worse sorry drab better dear beloved
+worse sorry drab better just best
+worse sorry drab better proficient best
+worse sorry drab better proficient adept best
+worse sorry drab better dependable best
+worse sorry drab better beneficial best
+worse sorry drab better honorable best
+worse sorry drab better safe best
+worse sorry drab better safe dependable best
+worse sorry drab better secure best
+worse sorry drab better secure dependable best
+worse sorry drab better secure strong unassailable
+worse sorry drab better secure unassailable
+worse sorry drab better skilful best
+worse sorry drab better skilful adept best
+worse sorry drab better skillful best
+worse sorry drab better skillful adept best
+worse sorry drab better respectable healthy intelligent
+worse sorry drab better respectable best
+worse sorry drab better respectable honorable best
+worse sorry drab better adept best
+worse sorry drab better honest best
+worse sorry drab better honest dependable best
+worse sorry drab better right best
+worse sorry drab better right correct
+worse sorry drab better sound best
+worse sorry drab better sound intelligent
+worse sorry drab better sound profound
+worse sorry drab better sound healthy intelligent
+worse sorry drab better effective efficient
+worse sorry drab better effective best
+grievous dangerous unsafe better safe best
+grievous dangerous unsafe better safe good best
+grievous dangerous unsafe better safe dependable best
+best dependable honest fair unreliable undependable
+best dependable honest fair unreliable treacherous
+best dependable better unreliable undependable
+best dependable better unreliable treacherous
+best dependable safe better unreliable undependable
+best dependable safe better unreliable treacherous
+best dependable secure better unreliable undependable
+best dependable secure better unreliable treacherous
+best dependable honest better unreliable undependable
+best dependable honest better unreliable treacherous
+nasty tight decent nice courteous
+nasty tight dainty nice courteous
+nasty smutty decent nice courteous
+nasty smutty dainty nice courteous
+beloved dear better malevolent evil
+unassailable strong secure better malevolent evil
+unassailable secure better malevolent evil
+intelligent healthy respectable better malevolent evil
+correct right better malevolent evil
+intelligent sound better malevolent evil
+profound sound better malevolent evil
+intelligent healthy sound better malevolent evil
+efficient effective better malevolent evil
+grievous dangerous grave serious better safe best
+grievous dangerous grave serious better safe good best
+grievous dangerous grave serious better safe dependable best
+grievous dangerous serious better safe best
+grievous dangerous serious better safe good best
+grievous dangerous serious better safe dependable best
+grievous dangerous grave severe better safe best
+grievous dangerous grave severe better safe good best
+grievous dangerous grave severe better safe dependable best
+grievous dangerous severe better safe best
+grievous dangerous severe better safe good best
+grievous dangerous severe better safe dependable best
+grievous dangerous grave heavy better safe best
+grievous dangerous grave heavy better safe good best
+grievous dangerous grave heavy better safe dependable best
+awful painful sore raw decent nice courteous
+awful painful sore raw dainty nice courteous
+awful frightening decent nice courteous
+awful frightening dainty nice courteous
+awful dire frightening decent nice courteous
+awful dire frightening dainty nice courteous
+awful fearsome dire frightening decent nice courteous
+awful fearsome dire frightening dainty nice courteous
+awful fearsome frightening decent nice courteous
+awful fearsome frightening dainty nice courteous
+lifelike natural sharp incisive penetrating
+lifelike natural sharp penetrating
+lifelike natural sharp astute
+lifelike natural sharp keen exquisite
+lifelike natural sharp keen penetrating
+lifelike natural sharp keen dandy great outstanding
+lifelike natural sharp keen great outstanding
+lifelike natural sharp crisp
+polite civilized uncivil rude
+foul fetid fair honest best
+foul fetid fair honest good best
+foul fetid fair honest dependable best
+foul fetid fair clean
+foul fetid fair comely
+foul dirty muddy cloudy fair honest best
+foul dirty muddy cloudy fair honest good best
+foul dirty muddy cloudy fair honest dependable best
+foul dirty muddy cloudy fair comely
+foul revolting distasteful unsavory fair honest best
+foul revolting distasteful unsavory fair honest good best
+foul revolting distasteful unsavory fair honest dependable best
+foul revolting distasteful unsavory fair clean
+foul revolting distasteful unsavory fair comely
+foul distasteful unsavory fair honest best
+foul distasteful unsavory fair honest good best
+foul distasteful unsavory fair honest dependable best
+foul distasteful unsavory fair clean
+foul distasteful unsavory fair comely
+foul dirty muddy murky fair honest best
+foul dirty muddy murky fair honest good best
+foul dirty muddy murky fair honest dependable best
+foul dirty muddy murky fair comely
+foul smutty fair honest best
+foul smutty fair honest good best
+foul smutty fair honest dependable best
+foul smutty fair clean
+foul smutty fair comely
+beloved dear better regretful bad worst
+beloved dear better unfit bad worst
+beloved dear better unsound bad worst
+beloved dear better hard tough bad worst
+beloved dear better wild risky bad worst
+unassailable strong secure better regretful bad worst
+unassailable strong secure better unfit bad worst
+unassailable strong secure better unsound bad worst
+unassailable strong secure better hard tough bad worst
+unassailable strong secure better wild risky bad worst
+unassailable secure better regretful bad worst
+unassailable secure better unfit bad worst
+unassailable secure better unsound bad worst
+unassailable secure better hard tough bad worst
+unassailable secure better wild risky bad worst
+intelligent healthy respectable better regretful bad worst
+intelligent healthy respectable better unfit bad worst
+intelligent healthy respectable better unsound bad worst
+intelligent healthy respectable better hard tough bad worst
+intelligent healthy respectable better wild risky bad worst
+correct right better regretful bad worst
+correct right better unfit bad worst
+correct right better unsound bad worst
+correct right better hard tough bad worst
+correct right better wild risky bad worst
+intelligent sound better regretful bad worst
+intelligent sound better unfit bad worst
+intelligent sound better hard tough bad worst
+intelligent sound better wild risky bad worst
+profound sound better regretful bad worst
+profound sound better unfit bad worst
+profound sound better hard tough bad worst
+profound sound better wild risky bad worst
+intelligent healthy sound better regretful bad worst
+intelligent healthy sound better unfit bad worst
+intelligent healthy sound better hard tough bad worst
+intelligent healthy sound better wild risky bad worst
+efficient effective better regretful bad worst
+efficient effective better unfit bad worst
+efficient effective better unsound bad worst
+efficient effective better hard tough bad worst
+efficient effective better wild risky bad worst
+inadequate short tall marvellous
+inadequate short tall marvelous
+miserable poor short tall marvellous
+miserable poor short tall marvelous
+miserable pathetic pitiable poor short tall marvellous
+miserable pathetic pitiable poor short tall marvelous
+wretched pathetic pitiable poor short tall marvellous
+wretched pathetic pitiable poor short tall marvelous
+miserable pitiable poor short tall marvellous
+miserable pitiable poor short tall marvelous
+wretched pitiable poor short tall marvellous
+wretched pitiable poor short tall marvelous
+miserable pitiful pitiable poor short tall marvellous
+miserable pitiful pitiable poor short tall marvelous
+deplorable pitiful pitiable poor short tall marvellous
+deplorable pitiful pitiable poor short tall marvelous
+wretched pitiful pitiable poor short tall marvellous
+wretched pitiful pitiable poor short tall marvelous
+wretched poor short tall marvellous
+wretched poor short tall marvelous
+miserable pathetic poor short tall marvellous
+miserable pathetic poor short tall marvelous
+wretched pathetic poor short tall marvellous
+wretched pathetic poor short tall marvelous
+miserable pitiful poor short tall marvellous
+miserable pitiful poor short tall marvelous
+deplorable pitiful poor short tall marvellous
+deplorable pitiful poor short tall marvelous
+wretched pitiful poor short tall marvellous
+wretched pitiful poor short tall marvelous
+best dear better ill sick grisly ghastly
+best dear better ill sick nauseous loathsome
+best dear better ill sick nauseous sickening
+best dear better ill sick ghastly
+best dear better ill ominous
+beloved dear better ill sick grisly ghastly
+beloved dear better ill sick nauseous loathsome
+beloved dear better ill sick nauseous sickening
+beloved dear better ill sick ghastly
+beloved dear better ill ominous
+best just better ill sick grisly ghastly
+best just better ill sick nauseous loathsome
+best just better ill sick nauseous sickening
+best just better ill sick ghastly
+best just better ill ominous
+best good just better ill sick grisly ghastly
+best good just better ill sick nauseous loathsome
+best good just better ill sick nauseous sickening
+best good just better ill sick ghastly
+best good just better ill ominous
+best proficient better ill sick grisly ghastly
+best proficient better ill sick nauseous loathsome
+best proficient better ill sick nauseous sickening
+best proficient better ill sick ghastly
+best proficient better ill ominous
+best good proficient better ill sick grisly ghastly
+best good proficient better ill sick nauseous loathsome
+best good proficient better ill sick nauseous sickening
+best good proficient better ill sick ghastly
+best good proficient better ill ominous
+best adept proficient better ill sick grisly ghastly
+best adept proficient better ill sick nauseous loathsome
+best adept proficient better ill sick nauseous sickening
+best adept proficient better ill sick ghastly
+best adept proficient better ill ominous
+best dependable better ill sick grisly ghastly
+best dependable better ill sick nauseous loathsome
+best dependable better ill sick nauseous sickening
+best dependable better ill sick ghastly
+best dependable better ill ominous
+best beneficial better ill sick grisly ghastly
+best beneficial better ill sick nauseous loathsome
+best beneficial better ill sick nauseous sickening
+best beneficial better ill sick ghastly
+best beneficial better ill ominous
+best good beneficial better ill sick grisly ghastly
+best good beneficial better ill sick nauseous loathsome
+best good beneficial better ill sick nauseous sickening
+best good beneficial better ill sick ghastly
+best good beneficial better ill ominous
+best honorable better ill sick grisly ghastly
+best honorable better ill sick nauseous loathsome
+best honorable better ill sick nauseous sickening
+best honorable better ill sick ghastly
+best honorable better ill ominous
+best good honorable better ill sick grisly ghastly
+best good honorable better ill sick nauseous loathsome
+best good honorable better ill sick nauseous sickening
+best good honorable better ill sick ghastly
+best good honorable better ill ominous
+best safe better ill sick grisly ghastly
+best safe better ill sick nauseous loathsome
+best safe better ill sick nauseous sickening
+best safe better ill sick ghastly
+best safe better ill ominous
+best good safe better ill sick grisly ghastly
+best good safe better ill sick nauseous loathsome
+best good safe better ill sick nauseous sickening
+best good safe better ill sick ghastly
+best good safe better ill ominous
+best dependable safe better ill sick grisly ghastly
+best dependable safe better ill sick nauseous loathsome
+best dependable safe better ill sick nauseous sickening
+best dependable safe better ill sick ghastly
+best dependable safe better ill ominous
+best secure better ill sick grisly ghastly
+best secure better ill sick nauseous loathsome
+best secure better ill sick nauseous sickening
+best secure better ill sick ghastly
+best secure better ill ominous
+best dependable secure better ill sick grisly ghastly
+best dependable secure better ill sick nauseous loathsome
+best dependable secure better ill sick nauseous sickening
+best dependable secure better ill sick ghastly
+best dependable secure better ill ominous
+unassailable strong secure better ill sick grisly ghastly
+unassailable strong secure better ill sick nauseous loathsome
+unassailable strong secure better ill sick nauseous sickening
+unassailable strong secure better ill sick ghastly
+unassailable strong secure better ill ominous
+unassailable secure better ill sick grisly ghastly
+unassailable secure better ill sick nauseous loathsome
+unassailable secure better ill sick nauseous sickening
+unassailable secure better ill sick ghastly
+unassailable secure better ill ominous
+best good secure better ill sick grisly ghastly
+best good secure better ill sick nauseous loathsome
+best good secure better ill sick nauseous sickening
+best good secure better ill sick ghastly
+best good secure better ill ominous
+best skilful better ill sick grisly ghastly
+best skilful better ill sick nauseous loathsome
+best skilful better ill sick nauseous sickening
+best skilful better ill sick ghastly
+best skilful better ill ominous
+best good skilful better ill sick grisly ghastly
+best good skilful better ill sick nauseous loathsome
+best good skilful better ill sick nauseous sickening
+best good skilful better ill sick ghastly
+best good skilful better ill ominous
+best adept skilful better ill sick grisly ghastly
+best adept skilful better ill sick nauseous loathsome
+best adept skilful better ill sick nauseous sickening
+best adept skilful better ill sick ghastly
+best adept skilful better ill ominous
+best skillful better ill sick grisly ghastly
+best skillful better ill sick nauseous loathsome
+best skillful better ill sick nauseous sickening
+best skillful better ill sick ghastly
+best skillful better ill ominous
+best good skillful better ill sick grisly ghastly
+best good skillful better ill sick nauseous loathsome
+best good skillful better ill sick nauseous sickening
+best good skillful better ill sick ghastly
+best good skillful better ill ominous
+best adept skillful better ill sick grisly ghastly
+best adept skillful better ill sick nauseous loathsome
+best adept skillful better ill sick nauseous sickening
+best adept skillful better ill sick ghastly
+best adept skillful better ill ominous
+intelligent healthy respectable better ill sick grisly ghastly
+intelligent healthy respectable better ill sick nauseous loathsome
+intelligent healthy respectable better ill sick nauseous sickening
+intelligent healthy respectable better ill sick ghastly
+intelligent healthy respectable better ill ominous
+best good respectable better ill sick grisly ghastly
+best good respectable better ill sick nauseous loathsome
+best good respectable better ill sick nauseous sickening
+best good respectable better ill sick ghastly
+best good respectable better ill ominous
+best respectable better ill sick grisly ghastly
+best respectable better ill sick nauseous loathsome
+best respectable better ill sick nauseous sickening
+best respectable better ill sick ghastly
+best respectable better ill ominous
+best honorable respectable better ill sick grisly ghastly
+best honorable respectable better ill sick nauseous loathsome
+best honorable respectable better ill sick nauseous sickening
+best honorable respectable better ill sick ghastly
+best honorable respectable better ill ominous
+best good honorable respectable better ill sick grisly ghastly
+best good honorable respectable better ill sick nauseous loathsome
+best good honorable respectable better ill sick nauseous sickening
+best good honorable respectable better ill sick ghastly
+best good honorable respectable better ill ominous
+best adept better ill sick grisly ghastly
+best adept better ill sick nauseous loathsome
+best adept better ill sick nauseous sickening
+best adept better ill sick ghastly
+best adept better ill ominous
+best honest better ill sick grisly ghastly
+best honest better ill sick nauseous loathsome
+best honest better ill sick nauseous sickening
+best honest better ill sick ghastly
+best honest better ill ominous
+best good honest better ill sick grisly ghastly
+best good honest better ill sick nauseous loathsome
+best good honest better ill sick nauseous sickening
+best good honest better ill sick ghastly
+best good honest better ill ominous
+best dependable honest better ill sick grisly ghastly
+best dependable honest better ill sick nauseous loathsome
+best dependable honest better ill sick nauseous sickening
+best dependable honest better ill sick ghastly
+best dependable honest better ill ominous
+best right better ill sick grisly ghastly
+best right better ill sick nauseous loathsome
+best right better ill sick nauseous sickening
+best right better ill sick ghastly
+best right better ill ominous
+best good right better ill sick grisly ghastly
+best good right better ill sick nauseous loathsome
+best good right better ill sick nauseous sickening
+best good right better ill sick ghastly
+best good right better ill ominous
+correct right better ill sick grisly ghastly
+correct right better ill sick nauseous loathsome
+correct right better ill sick nauseous sickening
+correct right better ill sick ghastly
+correct right better ill ominous
+best sound better ill sick grisly ghastly
+best sound better ill sick nauseous loathsome
+best sound better ill sick nauseous sickening
+best sound better ill sick ghastly
+best sound better ill ominous
+intelligent sound better ill sick grisly ghastly
+intelligent sound better ill sick nauseous loathsome
+intelligent sound better ill sick nauseous sickening
+intelligent sound better ill sick ghastly
+intelligent sound better ill ominous
+profound sound better ill sick grisly ghastly
+profound sound better ill sick nauseous loathsome
+profound sound better ill sick nauseous sickening
+profound sound better ill sick ghastly
+profound sound better ill ominous
+best good sound better ill sick grisly ghastly
+best good sound better ill sick nauseous loathsome
+best good sound better ill sick nauseous sickening
+best good sound better ill sick ghastly
+best good sound better ill ominous
+intelligent healthy sound better ill sick grisly ghastly
+intelligent healthy sound better ill sick nauseous loathsome
+intelligent healthy sound better ill sick nauseous sickening
+intelligent healthy sound better ill sick ghastly
+intelligent healthy sound better ill ominous
+efficient effective better ill sick grisly ghastly
+efficient effective better ill sick nauseous loathsome
+efficient effective better ill sick nauseous sickening
+efficient effective better ill sick ghastly
+efficient effective better ill ominous
+best good effective better ill sick grisly ghastly
+best good effective better ill sick nauseous loathsome
+best good effective better ill sick nauseous sickening
+best good effective better ill sick ghastly
+best good effective better ill ominous
+best effective better ill sick grisly ghastly
+best effective better ill sick nauseous loathsome
+best effective better ill sick nauseous sickening
+best effective better ill sick ghastly
+best effective better ill ominous
+best good better ill sick grisly ghastly
+best good better ill sick nauseous loathsome
+best good better ill sick nauseous sickening
+best good better ill sick ghastly
+best good better ill ominous
+problematic tough hard easy gentle
+problematic tough hard easy leisurely
+problematic tough hard easy prosperous thriving
+problematic tough hard easy prosperous favorable friendly
+problematic tough hard easy easygoing
+problematic tough hard easy comfortable
+worst tough hard easy gentle
+worst tough hard easy leisurely
+worst tough hard easy prosperous thriving
+worst tough hard easy prosperous favorable friendly
+worst tough hard easy easygoing
+worst tough hard easy comfortable
+worst bad tough hard easy gentle
+worst bad tough hard easy leisurely
+worst bad tough hard easy prosperous thriving
+worst bad tough hard easy prosperous favorable friendly
+worst bad tough hard easy easygoing
+worst bad tough hard easy comfortable
+worse bad tough hard easy gentle
+worse bad tough hard easy leisurely
+worse bad tough hard easy prosperous thriving
+worse bad tough hard easy prosperous favorable friendly
+worse bad tough hard easy easygoing
+worse bad tough hard easy comfortable
+worse tough hard easy gentle
+worse tough hard easy leisurely
+worse tough hard easy prosperous thriving
+worse tough hard easy prosperous favorable friendly
+worse tough hard easy easygoing
+worse tough hard easy comfortable
+laborious hard easy gentle
+laborious hard easy leisurely
+laborious hard easy prosperous thriving
+laborious hard easy prosperous favorable friendly
+laborious hard easy easygoing
+laborious hard easy comfortable
+handsome big small lowly
+outstanding great big small lowly
+free liberal big small lowly
+handsome liberal big small lowly
+abrasive harsh rough ok fine finest
+abrasive harsh rough okay fine finest
+diminutive lilliputian little tall marvellous
+diminutive lilliputian little tall marvelous
+lowly petty little tall marvellous
+lowly petty little tall marvelous
